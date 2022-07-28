@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Logging/.idea/Logging.iml" filepath="$PROJECT_DIR$/../Logging/.idea/Logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../NinjaProject/.idea/NinjaProject.iml" filepath="$PROJECT_DIR$/../NinjaProject/.idea/NinjaProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SWAdvance/.idea/SWAdvance.iml" filepath="$PROJECT_DIR$/../SWAdvance/.idea/SWAdvance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SeleniumProject.iml" filepath="$PROJECT_DIR$/.idea/SeleniumProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../UnitTest/.idea/UnitTest.iml" filepath="$PROJECT_DIR$/../UnitTest/.idea/UnitTest.iml" />
+    </modules>
+  </component>
+</project>

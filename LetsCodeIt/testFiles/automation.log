@@ -1,0 +1,163 @@
+04/30/2020 12:36:24 AM - coursesPageTest - INFO: Element found with locator: //a[contains(text(),'Login')] and locatorType: xpath
+04/30/2020 12:36:35 AM - coursesPageTest - INFO: Using explicit wait function for element: <selenium.webdriver.remote.webelement.WebElement (session="23d41305d0038d0acf247a0f1bedebf2", element="6ffab536-b538-4abb-91ef-b6e1463faf46")>
+04/30/2020 12:36:35 AM - coursesPageTest - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="23d41305d0038d0acf247a0f1bedebf2", element="6ffab536-b538-4abb-91ef-b6e1463faf46")>
+04/30/2020 12:36:35 AM - coursesPageTest - INFO: Element found with locator: user_email and locatorType: id
+04/30/2020 12:36:35 AM - coursesPageTest - INFO: Element found with locator: user_password and locatorType: id
+04/30/2020 12:36:35 AM - coursesPageTest - INFO: Element found with locator: commit and locatorType: name
+04/30/2020 12:36:42 AM - coursesPageTest - INFO: Element found with locator: search-courses and locatorType: id
+04/30/2020 12:36:42 AM - testCaseStatus - INFO: test_login: test case Passed
+04/30/2020 12:36:42 AM - coursesPageTest - INFO: Element found with locator: search-courses and locatorType: id
+04/30/2020 12:36:42 AM - coursesPageTest - INFO: Element found with locator: search-course-button and locatorType: id
+04/30/2020 12:36:44 AM - coursesPageTest - INFO: Element found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript')] and locatorType: xpath
+04/30/2020 12:36:46 AM - coursesPageTest - INFO: Using explicit wait function for element: <selenium.webdriver.remote.webelement.WebElement (session="23d41305d0038d0acf247a0f1bedebf2", element="a8733299-2491-4ef6-b4f1-adfdda1acff5")>
+04/30/2020 12:36:46 AM - coursesPageTest - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="23d41305d0038d0acf247a0f1bedebf2", element="a8733299-2491-4ef6-b4f1-adfdda1acff5")>
+04/30/2020 12:36:46 AM - coursesPageTest - INFO: Element found with locator: //button[@id='enroll-button-top'] and locatorType: xpath
+04/30/2020 12:36:55 AM - coursesPageTest - INFO: Element found with locator: cardnumber and locatorType: name
+04/30/2020 12:36:55 AM - coursesPageTest - INFO: Element found with locator: cardnumber and locatorType: name
+04/30/2020 12:36:58 AM - coursesPageTest - INFO: Element found with locator: exp-date and locatorType: name
+04/30/2020 12:36:59 AM - coursesPageTest - INFO: Element found with locator: exp-date and locatorType: name
+04/30/2020 12:37:02 AM - coursesPageTest - INFO: Element found with locator: cvc and locatorType: name
+04/30/2020 12:37:02 AM - coursesPageTest - INFO: Element found with locator: agreed_to_terms_checkbox and locatorType: id
+04/30/2020 12:37:02 AM - coursesPageTest - INFO: Element found with locator: agreed_to_terms_checkbox and locatorType: id
+04/30/2020 12:37:02 AM - testCaseStatus - INFO: test_purchaseCourse: test case Passed
+04/30/2020 12:37:06 AM - coursesPageTest - INFO: Element found with locator: search-courses and locatorType: id
+04/30/2020 12:37:06 AM - coursesPageTest - INFO: Element found with locator: search-course-button and locatorType: id
+04/30/2020 12:37:08 AM - coursesPageTest - INFO: Element found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'Selenium WebDriver With Java')] and locatorType: xpath
+04/30/2020 12:37:11 AM - coursesPageTest - INFO: Using explicit wait function for element: <selenium.webdriver.remote.webelement.WebElement (session="23d41305d0038d0acf247a0f1bedebf2", element="9fe6b028-50b1-4e00-a5df-d99b1ba836ed")>
+04/30/2020 12:37:11 AM - coursesPageTest - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="23d41305d0038d0acf247a0f1bedebf2", element="9fe6b028-50b1-4e00-a5df-d99b1ba836ed")>
+04/30/2020 12:37:11 AM - coursesPageTest - INFO: Element found with locator: //button[@id='enroll-button-top'] and locatorType: xpath
+04/30/2020 12:37:19 AM - coursesPageTest - INFO: Element found with locator: cardnumber and locatorType: name
+04/30/2020 12:37:19 AM - coursesPageTest - INFO: Element found with locator: cardnumber and locatorType: name
+04/30/2020 12:37:23 AM - coursesPageTest - INFO: Element found with locator: exp-date and locatorType: name
+04/30/2020 12:37:23 AM - coursesPageTest - INFO: Element found with locator: exp-date and locatorType: name
+04/30/2020 12:37:26 AM - coursesPageTest - INFO: Element found with locator: cvc and locatorType: name
+04/30/2020 12:37:27 AM - coursesPageTest - INFO: Element found with locator: agreed_to_terms_checkbox and locatorType: id
+04/30/2020 12:37:27 AM - coursesPageTest - INFO: Element found with locator: agreed_to_terms_checkbox and locatorType: id
+04/30/2020 12:37:27 AM - testCaseStatus - INFO: test_purchaseCourse: test case Passed
+04/30/2020 12:37:30 AM - coursesPageTest - INFO: Element found with locator: search-courses and locatorType: id
+04/30/2020 12:37:30 AM - coursesPageTest - INFO: Element found with locator: search-course-button and locatorType: id
+04/30/2020 12:37:32 AM - coursesPageTest - INFO: Element found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'Mac Linux Command Line Basics')] and locatorType: xpath
+04/30/2020 12:37:34 AM - coursesPageTest - INFO: Using explicit wait function for element: <selenium.webdriver.remote.webelement.WebElement (session="23d41305d0038d0acf247a0f1bedebf2", element="fc63e10e-b3ee-4bbb-9ed7-84e282070902")>
+04/30/2020 12:37:34 AM - coursesPageTest - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="23d41305d0038d0acf247a0f1bedebf2", element="fc63e10e-b3ee-4bbb-9ed7-84e282070902")>
+04/30/2020 12:37:34 AM - coursesPageTest - INFO: Element found with locator: //button[@id='enroll-button-top'] and locatorType: xpath
+04/30/2020 12:37:43 AM - coursesPageTest - INFO: Element found with locator: cardnumber and locatorType: name
+04/30/2020 12:37:43 AM - coursesPageTest - INFO: Element found with locator: cardnumber and locatorType: name
+04/30/2020 12:37:46 AM - coursesPageTest - INFO: Element found with locator: exp-date and locatorType: name
+04/30/2020 12:37:47 AM - coursesPageTest - INFO: Element found with locator: exp-date and locatorType: name
+04/30/2020 12:37:50 AM - coursesPageTest - INFO: Element found with locator: cvc and locatorType: name
+04/30/2020 12:37:50 AM - coursesPageTest - INFO: Element found with locator: agreed_to_terms_checkbox and locatorType: id
+04/30/2020 12:37:50 AM - coursesPageTest - INFO: Element found with locator: agreed_to_terms_checkbox and locatorType: id
+04/30/2020 12:37:50 AM - testCaseStatus - INFO: test_purchaseCourse: test case Passed
+04/30/2020 12:38:11 AM - practicePage - INFO: Element found with locator: //div[@id='radio-btn-example']//input[@value='bmw'] and locatorType: xpath
+04/30/2020 12:38:11 AM - practicePage - INFO: Element found with locator: //div[@id='select-class-example']//option[@value='honda'] and locatorType: xpath
+04/30/2020 12:38:11 AM - practicePage - INFO: Element found with locator: //div[@class='cen-right-align']//option[@value='peach'] and locatorType: xpath
+04/30/2020 12:38:11 AM - practicePage - INFO: Element found with locator: //div[@class='cen-right-align']//option[@value='apple'] and locatorType: xpath
+04/30/2020 12:38:11 AM - practicePage - INFO: Element found with locator: //div[@id='checkbox-example']//input[@value='benz'] and locatorType: xpath
+04/30/2020 12:38:11 AM - practicePage - INFO: Element found with locator: //div[@id='checkbox-example']//input[@value='bmw'] and locatorType: xpath
+04/30/2020 12:47:27 AM - coursesPageTest - INFO: Element found with locator: //a[contains(text(),'Login')] and locatorType: xpath
+04/30/2020 12:47:37 AM - coursesPageTest - INFO: Using explicit wait function for element: <selenium.webdriver.remote.webelement.WebElement (session="ae577d403f784650c9f5832194e91346", element="0bebba7d-3942-485d-9b3b-69e955d3a6f4")>
+04/30/2020 12:47:37 AM - coursesPageTest - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="ae577d403f784650c9f5832194e91346", element="0bebba7d-3942-485d-9b3b-69e955d3a6f4")>
+04/30/2020 12:47:37 AM - coursesPageTest - INFO: Element found with locator: user_email and locatorType: id
+04/30/2020 12:47:37 AM - coursesPageTest - INFO: Element found with locator: user_password and locatorType: id
+04/30/2020 12:47:37 AM - coursesPageTest - INFO: Element found with locator: commit and locatorType: name
+04/30/2020 12:47:44 AM - coursesPageTest - INFO: Element found with locator: search-courses and locatorType: id
+04/30/2020 12:47:44 AM - testCaseStatus - INFO: test_login: test case Passed
+04/30/2020 12:47:44 AM - coursesPageTest - INFO: Element found with locator: search-courses and locatorType: id
+04/30/2020 12:47:44 AM - coursesPageTest - INFO: Element found with locator: search-course-button and locatorType: id
+04/30/2020 12:47:45 AM - coursesPageTest - INFO: Element found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript')] and locatorType: xpath
+04/30/2020 12:47:47 AM - coursesPageTest - INFO: Using explicit wait function for element: <selenium.webdriver.remote.webelement.WebElement (session="ae577d403f784650c9f5832194e91346", element="e4dbc3f3-15b6-4ec7-8d6c-41ead553892b")>
+04/30/2020 12:47:47 AM - coursesPageTest - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="ae577d403f784650c9f5832194e91346", element="e4dbc3f3-15b6-4ec7-8d6c-41ead553892b")>
+04/30/2020 12:47:47 AM - coursesPageTest - INFO: Element found with locator: //button[@id='enroll-button-top'] and locatorType: xpath
+04/30/2020 12:47:58 AM - coursesPageTest - INFO: Element found with locator: cardnumber and locatorType: name
+04/30/2020 12:47:58 AM - coursesPageTest - INFO: Element found with locator: cardnumber and locatorType: name
+04/30/2020 12:48:02 AM - coursesPageTest - INFO: Element found with locator: exp-date and locatorType: name
+04/30/2020 12:48:02 AM - coursesPageTest - INFO: Element found with locator: exp-date and locatorType: name
+04/30/2020 12:48:05 AM - coursesPageTest - INFO: Element found with locator: cvc and locatorType: name
+04/30/2020 12:48:05 AM - coursesPageTest - INFO: Element found with locator: agreed_to_terms_checkbox and locatorType: id
+04/30/2020 12:48:06 AM - coursesPageTest - INFO: Element found with locator: agreed_to_terms_checkbox and locatorType: id
+04/30/2020 12:48:06 AM - testCaseStatus - INFO: test_purchaseCourse: test case Passed
+04/30/2020 12:48:08 AM - coursesPageTest - INFO: Element found with locator: search-courses and locatorType: id
+04/30/2020 12:48:09 AM - coursesPageTest - INFO: Element found with locator: search-course-button and locatorType: id
+04/30/2020 12:48:10 AM - coursesPageTest - INFO: Element found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'Selenium WebDriver With Java')] and locatorType: xpath
+04/30/2020 12:48:12 AM - coursesPageTest - INFO: Using explicit wait function for element: <selenium.webdriver.remote.webelement.WebElement (session="ae577d403f784650c9f5832194e91346", element="f906b354-f610-4050-b9f3-611b42348b5c")>
+04/30/2020 12:48:12 AM - coursesPageTest - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="ae577d403f784650c9f5832194e91346", element="f906b354-f610-4050-b9f3-611b42348b5c")>
+04/30/2020 12:48:12 AM - coursesPageTest - INFO: Element found with locator: //button[@id='enroll-button-top'] and locatorType: xpath
+04/30/2020 12:48:21 AM - coursesPageTest - INFO: Element found with locator: cardnumber and locatorType: name
+04/30/2020 12:48:21 AM - coursesPageTest - INFO: Element found with locator: cardnumber and locatorType: name
+04/30/2020 12:48:25 AM - coursesPageTest - INFO: Element found with locator: exp-date and locatorType: name
+04/30/2020 12:48:25 AM - coursesPageTest - INFO: Element found with locator: exp-date and locatorType: name
+04/30/2020 12:48:28 AM - coursesPageTest - INFO: Element found with locator: cvc and locatorType: name
+04/30/2020 12:48:29 AM - coursesPageTest - INFO: Element found with locator: agreed_to_terms_checkbox and locatorType: id
+04/30/2020 12:48:29 AM - coursesPageTest - INFO: Element found with locator: agreed_to_terms_checkbox and locatorType: id
+04/30/2020 12:48:29 AM - testCaseStatus - INFO: test_purchaseCourse: test case Passed
+04/30/2020 12:48:31 AM - coursesPageTest - INFO: Element found with locator: search-courses and locatorType: id
+04/30/2020 12:48:32 AM - coursesPageTest - INFO: Element found with locator: search-course-button and locatorType: id
+04/30/2020 12:48:33 AM - coursesPageTest - INFO: Element found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'Mac Linux Command Line Basics')] and locatorType: xpath
+04/30/2020 12:48:34 AM - coursesPageTest - INFO: Using explicit wait function for element: <selenium.webdriver.remote.webelement.WebElement (session="ae577d403f784650c9f5832194e91346", element="045dfac2-9450-4401-a5ad-ad89a5301fd2")>
+04/30/2020 12:48:34 AM - coursesPageTest - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="ae577d403f784650c9f5832194e91346", element="045dfac2-9450-4401-a5ad-ad89a5301fd2")>
+04/30/2020 12:48:34 AM - coursesPageTest - INFO: Element found with locator: //button[@id='enroll-button-top'] and locatorType: xpath
+04/30/2020 12:48:43 AM - coursesPageTest - INFO: Element found with locator: cardnumber and locatorType: name
+04/30/2020 12:48:43 AM - coursesPageTest - INFO: Element found with locator: cardnumber and locatorType: name
+04/30/2020 12:48:46 AM - coursesPageTest - INFO: Element found with locator: exp-date and locatorType: name
+04/30/2020 12:48:46 AM - coursesPageTest - INFO: Element found with locator: exp-date and locatorType: name
+04/30/2020 12:48:50 AM - coursesPageTest - INFO: Element found with locator: cvc and locatorType: name
+04/30/2020 12:48:50 AM - coursesPageTest - INFO: Element found with locator: agreed_to_terms_checkbox and locatorType: id
+04/30/2020 12:48:50 AM - coursesPageTest - INFO: Element found with locator: agreed_to_terms_checkbox and locatorType: id
+04/30/2020 12:48:50 AM - testCaseStatus - INFO: test_purchaseCourse: test case Passed
+04/30/2020 12:49:06 AM - practicePage - INFO: Element found with locator: //div[@id='radio-btn-example']//input[@value='bmw'] and locatorType: xpath
+04/30/2020 12:49:06 AM - practicePage - INFO: Element found with locator: //div[@id='select-class-example']//option[@value='benz'] and locatorType: xpath
+04/30/2020 12:49:06 AM - practicePage - INFO: Element found with locator: //div[@class='cen-right-align']//option[@value='peach'] and locatorType: xpath
+04/30/2020 12:49:06 AM - practicePage - INFO: Element found with locator: //div[@id='checkbox-example']//input[@value='honda'] and locatorType: xpath
+04/30/2020 01:06:52 AM - coursesPageTest - INFO: Element found with locator: //a[contains(text(),'Login')] and locatorType: xpath
+04/30/2020 01:07:02 AM - coursesPageTest - INFO: Using explicit wait function for element: <selenium.webdriver.remote.webelement.WebElement (session="61dac3b5e2c9fd8559496027b467e0e5", element="8d2deef1-11e4-4231-92b9-922bca89e2d6")>
+04/30/2020 01:07:02 AM - coursesPageTest - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="61dac3b5e2c9fd8559496027b467e0e5", element="8d2deef1-11e4-4231-92b9-922bca89e2d6")>
+04/30/2020 01:07:02 AM - coursesPageTest - INFO: Element found with locator: user_email and locatorType: id
+04/30/2020 01:07:02 AM - coursesPageTest - INFO: Element found with locator: user_password and locatorType: id
+04/30/2020 01:07:02 AM - coursesPageTest - INFO: Element found with locator: commit and locatorType: name
+04/30/2020 01:07:11 AM - coursesPageTest - INFO: Element found with locator: search-courses and locatorType: id
+04/30/2020 01:07:11 AM - testCaseStatus - INFO: test_login: test case Passed
+04/30/2020 01:07:11 AM - coursesPageTest - INFO: Element found with locator: search-courses and locatorType: id
+04/30/2020 01:07:11 AM - coursesPageTest - INFO: Element found with locator: search-course-button and locatorType: id
+04/30/2020 01:07:13 AM - coursesPageTest - INFO: Element found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript')] and locatorType: xpath
+04/30/2020 01:07:15 AM - coursesPageTest - INFO: Using explicit wait function for element: <selenium.webdriver.remote.webelement.WebElement (session="61dac3b5e2c9fd8559496027b467e0e5", element="42f20c27-984c-469a-8895-5bb11652151c")>
+04/30/2020 01:07:15 AM - coursesPageTest - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="61dac3b5e2c9fd8559496027b467e0e5", element="42f20c27-984c-469a-8895-5bb11652151c")>
+04/30/2020 01:07:15 AM - coursesPageTest - INFO: Element found with locator: //button[@id='enroll-button-top'] and locatorType: xpath
+04/30/2020 01:07:25 AM - coursesPageTest - INFO: Element found with locator: cardnumber and locatorType: name
+04/30/2020 01:07:25 AM - coursesPageTest - INFO: Element found with locator: cardnumber and locatorType: name
+04/30/2020 01:07:29 AM - coursesPageTest - INFO: Element found with locator: exp-date and locatorType: name
+04/30/2020 01:07:29 AM - coursesPageTest - INFO: Element found with locator: exp-date and locatorType: name
+04/30/2020 01:07:32 AM - coursesPageTest - INFO: Element found with locator: cvc and locatorType: name
+04/30/2020 01:07:32 AM - coursesPageTest - INFO: Element found with locator: agreed_to_terms_checkbox and locatorType: id
+04/30/2020 01:07:32 AM - coursesPageTest - INFO: Element found with locator: agreed_to_terms_checkbox and locatorType: id
+04/30/2020 01:07:32 AM - testCaseStatus - INFO: test_purchaseCourse: test case Passed
+04/30/2020 01:07:36 AM - coursesPageTest - INFO: Element found with locator: search-courses and locatorType: id
+04/30/2020 01:07:36 AM - coursesPageTest - INFO: Element found with locator: search-course-button and locatorType: id
+04/30/2020 01:07:38 AM - coursesPageTest - INFO: Element found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'Selenium WebDriver With Java')] and locatorType: xpath
+04/30/2020 01:07:40 AM - coursesPageTest - INFO: Using explicit wait function for element: <selenium.webdriver.remote.webelement.WebElement (session="61dac3b5e2c9fd8559496027b467e0e5", element="b05bb13f-e905-422d-8686-21b267050a4e")>
+04/30/2020 01:07:40 AM - coursesPageTest - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="61dac3b5e2c9fd8559496027b467e0e5", element="b05bb13f-e905-422d-8686-21b267050a4e")>
+04/30/2020 01:07:40 AM - coursesPageTest - INFO: Element found with locator: //button[@id='enroll-button-top'] and locatorType: xpath
+04/30/2020 01:07:49 AM - coursesPageTest - INFO: Element found with locator: cardnumber and locatorType: name
+04/30/2020 01:07:49 AM - coursesPageTest - INFO: Element found with locator: cardnumber and locatorType: name
+04/30/2020 01:07:53 AM - coursesPageTest - INFO: Element found with locator: exp-date and locatorType: name
+04/30/2020 01:07:53 AM - coursesPageTest - INFO: Element found with locator: exp-date and locatorType: name
+04/30/2020 01:07:56 AM - coursesPageTest - INFO: Element found with locator: cvc and locatorType: name
+04/30/2020 01:07:56 AM - coursesPageTest - INFO: Element found with locator: agreed_to_terms_checkbox and locatorType: id
+04/30/2020 01:07:57 AM - coursesPageTest - INFO: Element found with locator: agreed_to_terms_checkbox and locatorType: id
+04/30/2020 01:07:57 AM - testCaseStatus - INFO: test_purchaseCourse: test case Passed
+04/30/2020 01:07:59 AM - coursesPageTest - INFO: Element found with locator: search-courses and locatorType: id
+04/30/2020 01:07:59 AM - coursesPageTest - INFO: Element found with locator: search-course-button and locatorType: id
+04/30/2020 01:08:01 AM - coursesPageTest - INFO: Element found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'Mac Linux Command Line Basics')] and locatorType: xpath
+04/30/2020 01:08:03 AM - coursesPageTest - INFO: Using explicit wait function for element: <selenium.webdriver.remote.webelement.WebElement (session="61dac3b5e2c9fd8559496027b467e0e5", element="8838ed5f-abd4-444e-998b-be0a2526228b")>
+04/30/2020 01:08:03 AM - coursesPageTest - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="61dac3b5e2c9fd8559496027b467e0e5", element="8838ed5f-abd4-444e-998b-be0a2526228b")>
+04/30/2020 01:08:03 AM - coursesPageTest - INFO: Element found with locator: //button[@id='enroll-button-top'] and locatorType: xpath
+04/30/2020 01:08:12 AM - coursesPageTest - INFO: Element found with locator: cardnumber and locatorType: name
+04/30/2020 01:08:12 AM - coursesPageTest - INFO: Element found with locator: cardnumber and locatorType: name
+04/30/2020 01:08:15 AM - coursesPageTest - INFO: Element found with locator: exp-date and locatorType: name
+04/30/2020 01:08:15 AM - coursesPageTest - INFO: Element found with locator: exp-date and locatorType: name
+04/30/2020 01:08:19 AM - coursesPageTest - INFO: Element found with locator: cvc and locatorType: name
+04/30/2020 01:08:19 AM - coursesPageTest - INFO: Element found with locator: agreed_to_terms_checkbox and locatorType: id
+04/30/2020 01:08:19 AM - coursesPageTest - INFO: Element found with locator: agreed_to_terms_checkbox and locatorType: id
+04/30/2020 01:08:19 AM - testCaseStatus - INFO: test_purchaseCourse: test case Passed
+04/30/2020 01:08:36 AM - practicePage - INFO: Element found with locator: //div[@id='radio-btn-example']//input[@value='bmw'] and locatorType: xpath
+04/30/2020 01:08:36 AM - practicePage - INFO: Element found with locator: //div[@id='select-class-example']//option[@value='benz'] and locatorType: xpath
+04/30/2020 01:08:36 AM - practicePage - INFO: Element not found with locator: //div[@class='cen-right-align']//option[@value='('peach', 'apple')'] and locatorType: xpath

@@ -1,0 +1,3 @@
+04/30/2020 01:11:00 AM - practicePage - INFO: Element found with locator: //div[@id='radio-btn-example']//input[@value='bmw'] and locatorType: xpath
+04/30/2020 01:11:00 AM - practicePage - INFO: Element found with locator: //div[@id='select-class-example']//option[@value='benz'] and locatorType: xpath
+04/30/2020 01:11:00 AM - practicePage - INFO: Element not found with locator: //div[@class='cen-right-align']//option[@value='['peach', 'apple']'] and locatorType: xpath

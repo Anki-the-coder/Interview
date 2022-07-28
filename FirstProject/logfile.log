@@ -1,0 +1,973 @@
+05/24/2020 01:07:40 AM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 01:07:40 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="982e92707a50c27f91a97881a326e35b", element="8b811bac-60cd-4856-bf94-4f554add7696")>
+05/24/2020 01:07:47 AM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 01:07:47 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="982e92707a50c27f91a97881a326e35b", element="d4a6670a-a35c-43e7-a12c-30190d5a1a44")>
+05/24/2020 01:07:47 AM - seleniumDriver - ERROR: ### VERIFICATION FAILED :: + test_login result 1
+05/24/2020 01:07:47 AM - seleniumDriver - INFO: Screenshot captured at the location: C:\Auto\PycharmProjects\FirstProject\.\Screenshots\
+05/24/2020 01:07:47 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/24/2020 01:07:47 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="982e92707a50c27f91a97881a326e35b", element="d4a6670a-a35c-43e7-a12c-30190d5a1a44")>
+05/24/2020 01:07:47 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/24/2020 01:07:47 AM - seleniumDriver - ERROR: test_login ### TEST FAILED
+05/24/2020 01:08:24 AM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 01:08:24 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="bd3004f8145fdb51ab7e2dc3594826d7", element="5a5a0d2d-bbde-4d71-a067-8834907aa458")>
+05/24/2020 01:08:31 AM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 01:08:31 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="bd3004f8145fdb51ab7e2dc3594826d7", element="243f3102-dd88-4923-af17-b8c386168010")>
+05/24/2020 01:08:31 AM - seleniumDriver - ERROR: ### VERIFICATION FAILED :: + test_login result 1
+05/24/2020 01:08:32 AM - seleniumDriver - INFO: Screenshot captured at the location: C:\Auto\PycharmProjects\FirstProject\.\Screenshots\
+05/24/2020 01:08:32 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/24/2020 01:08:32 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="bd3004f8145fdb51ab7e2dc3594826d7", element="243f3102-dd88-4923-af17-b8c386168010")>
+05/24/2020 01:08:32 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/24/2020 01:08:32 AM - seleniumDriver - ERROR: test_login ### TEST FAILED
+05/24/2020 01:23:23 AM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 01:23:23 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="776f5215cd05e3333dfb7fbf5da5fb41", element="4255ace5-1152-4562-9d72-bd97d6579163")>
+05/24/2020 01:23:31 AM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 01:23:31 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="776f5215cd05e3333dfb7fbf5da5fb41", element="4f9728f7-257f-4061-a44d-36e303d295db")>
+05/24/2020 01:23:31 AM - seleniumDriver - ERROR: ### VERIFICATION FAILED :: + test_login result 1
+05/24/2020 01:23:31 AM - seleniumDriver - INFO: Screenshot captured at the location: C:\Auto\PycharmProjects\FirstProject\.\Screenshots\
+05/24/2020 01:23:31 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/24/2020 01:23:31 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="776f5215cd05e3333dfb7fbf5da5fb41", element="4f9728f7-257f-4061-a44d-36e303d295db")>
+05/24/2020 01:23:31 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/24/2020 01:23:31 AM - seleniumDriver - ERROR: test_login ### TEST FAILED
+05/24/2020 01:27:33 AM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 01:27:33 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="f7ec048b43d63ddb7016684801a5931a", element="2f46c39b-d71c-4841-a402-d1f08a1bf7f8")>
+05/24/2020 01:27:42 AM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 01:27:42 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="f7ec048b43d63ddb7016684801a5931a", element="2136d363-7eb7-4e92-b0c2-c88683d4f16c")>
+05/24/2020 01:27:42 AM - seleniumDriver - ERROR: ### VERIFICATION FAILED :: + test_login result 1
+05/24/2020 01:27:42 AM - seleniumDriver - INFO: Screenshot captured at the location: C:\Auto\PycharmProjects\FirstProject\.\Screenshots\
+05/24/2020 01:27:42 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/24/2020 01:27:42 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="f7ec048b43d63ddb7016684801a5931a", element="2136d363-7eb7-4e92-b0c2-c88683d4f16c")>
+05/24/2020 01:27:42 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/24/2020 01:27:42 AM - seleniumDriver - ERROR: test_login ### TEST FAILED
+05/24/2020 01:35:47 AM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 01:35:47 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="8aca6d3b9e2110694d8693f81ed8c435", element="e4d8d2d8-6124-4b7a-8213-301c160c41a5")>
+05/24/2020 01:35:56 AM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 01:35:56 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="8aca6d3b9e2110694d8693f81ed8c435", element="cbb7d58c-f906-4d53-9a64-ea1bbf1631b8")>
+05/24/2020 01:35:56 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/24/2020 01:35:56 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/24/2020 01:35:56 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="8aca6d3b9e2110694d8693f81ed8c435", element="cbb7d58c-f906-4d53-9a64-ea1bbf1631b8")>
+05/24/2020 01:35:56 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/24/2020 01:35:56 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/24/2020 01:54:00 AM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 01:54:00 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="288791c6bb36f108966c87a02ce3f904", element="5aea51c8-551c-47f3-a65c-bdde17456def")>
+05/24/2020 01:54:11 AM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 01:54:11 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="288791c6bb36f108966c87a02ce3f904", element="b3f30825-d989-46e9-a184-407a206e0a9d")>
+05/24/2020 01:54:11 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/24/2020 01:54:11 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/24/2020 01:54:11 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="288791c6bb36f108966c87a02ce3f904", element="b3f30825-d989-46e9-a184-407a206e0a9d")>
+05/24/2020 01:54:11 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/24/2020 01:54:11 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/24/2020 01:59:07 AM - seleniumDriver - INFO: Element not found None
+05/24/2020 01:59:13 AM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 01:59:13 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="9b05ba09dcfb1fdac4d2577401d82e5b", element="0b942eec-2c4f-47f4-b5db-74433026ef13")>
+05/24/2020 01:59:20 AM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 01:59:20 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="9b05ba09dcfb1fdac4d2577401d82e5b", element="b63954b5-83e9-4c2d-9404-e2c342b78994")>
+05/24/2020 01:59:20 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/24/2020 01:59:20 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/24/2020 01:59:20 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="9b05ba09dcfb1fdac4d2577401d82e5b", element="b63954b5-83e9-4c2d-9404-e2c342b78994")>
+05/24/2020 01:59:20 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/24/2020 01:59:20 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/24/2020 02:02:05 AM - seleniumDriver - INFO: Element not found None
+05/24/2020 02:02:12 AM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 02:02:12 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="3872686fb1a4a0e04a21a844d5cb5c62", element="5cc43ede-2fc4-49b1-930e-bb1f69684b62")>
+05/24/2020 02:02:19 AM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 02:02:19 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="3872686fb1a4a0e04a21a844d5cb5c62", element="6b712a8c-2105-453b-8f2e-5337af6bad9b")>
+05/24/2020 02:02:19 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/24/2020 02:02:19 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/24/2020 02:02:19 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="3872686fb1a4a0e04a21a844d5cb5c62", element="6b712a8c-2105-453b-8f2e-5337af6bad9b")>
+05/24/2020 02:02:19 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/24/2020 02:02:19 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/24/2020 02:09:06 AM - seleniumDriver - INFO: Element not found None
+05/24/2020 02:09:12 AM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 02:09:12 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="4e6d8e8927af04f983dd45b76c56b981", element="7e1c0d9f-c373-4bbf-916d-34d67b1aa312")>
+05/24/2020 02:09:21 AM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 02:09:21 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="4e6d8e8927af04f983dd45b76c56b981", element="68f5bb0a-8f1e-47a3-9588-11a38dbf84d8")>
+05/24/2020 02:09:21 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/24/2020 02:09:21 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/24/2020 02:09:21 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="4e6d8e8927af04f983dd45b76c56b981", element="68f5bb0a-8f1e-47a3-9588-11a38dbf84d8")>
+05/24/2020 02:09:21 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/24/2020 02:09:21 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/24/2020 02:10:19 AM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 02:10:19 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="c7571d2857d6e39a896d191764ae1026", element="c7c698a6-e1dd-478f-8cc0-c8a40d59f57d")>
+05/24/2020 02:10:26 AM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 02:10:26 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="c7571d2857d6e39a896d191764ae1026", element="5297d0bd-ced0-4f06-98b2-395554e84c0d")>
+05/24/2020 02:10:26 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/24/2020 02:10:26 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/24/2020 02:10:26 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="c7571d2857d6e39a896d191764ae1026", element="5297d0bd-ced0-4f06-98b2-395554e84c0d")>
+05/24/2020 02:10:26 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/24/2020 02:10:26 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/24/2020 02:16:08 AM - seleniumDriver - INFO: Element not found None
+05/24/2020 02:16:14 AM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 02:16:14 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="8ae8f4a8d93d53ebb93f68bcd0333173", element="e2a64f55-efa2-4cc0-9736-096b07d5adf3")>
+05/24/2020 02:16:32 AM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 02:16:32 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="8ae8f4a8d93d53ebb93f68bcd0333173", element="e556f9e7-6a76-4f36-9afe-c30c103aa37e")>
+05/24/2020 02:16:32 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/24/2020 02:16:32 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/24/2020 02:16:32 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="8ae8f4a8d93d53ebb93f68bcd0333173", element="e556f9e7-6a76-4f36-9afe-c30c103aa37e")>
+05/24/2020 02:16:32 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/24/2020 02:16:32 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/24/2020 02:25:58 AM - seleniumDriver - INFO: Element not found None
+05/24/2020 02:26:04 AM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 02:26:04 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="ec946fc69b0372f7a8872c913cb4f035", element="c057d180-b66f-454a-b1f5-8e7997397ef8")>
+05/24/2020 02:26:13 AM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 02:26:13 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="ec946fc69b0372f7a8872c913cb4f035", element="8d27fca0-be89-4618-bbde-352daae597ce")>
+05/24/2020 02:26:13 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/24/2020 02:26:13 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/24/2020 02:26:13 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="ec946fc69b0372f7a8872c913cb4f035", element="8d27fca0-be89-4618-bbde-352daae597ce")>
+05/24/2020 02:26:13 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/24/2020 02:26:13 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/24/2020 02:27:12 AM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 02:27:12 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="b8e1bbda347526cfb0bfd8972483a0fd", element="49921529-790f-4264-8949-03b4c9b125d6")>
+05/24/2020 02:27:21 AM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 02:27:21 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="b8e1bbda347526cfb0bfd8972483a0fd", element="4549f754-fb25-4104-9b9c-f9ebf0b3529b")>
+05/24/2020 02:27:21 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/24/2020 02:27:21 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/24/2020 02:27:21 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="b8e1bbda347526cfb0bfd8972483a0fd", element="4549f754-fb25-4104-9b9c-f9ebf0b3529b")>
+05/24/2020 02:27:21 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/24/2020 02:27:21 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/24/2020 02:41:30 AM - seleniumDriver - INFO: Element not found None
+05/24/2020 02:41:37 AM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 02:41:37 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="12f97095092921f614b5938a16d9bca7", element="d0ef5465-25af-4a5a-8895-de116c13e883")>
+05/24/2020 02:41:46 AM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 02:41:46 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="12f97095092921f614b5938a16d9bca7", element="384a6c8e-1b1f-4f5c-8710-e98b6821df1b")>
+05/24/2020 02:41:46 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/24/2020 02:41:46 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/24/2020 02:41:46 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="12f97095092921f614b5938a16d9bca7", element="384a6c8e-1b1f-4f5c-8710-e98b6821df1b")>
+05/24/2020 02:41:46 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/24/2020 02:41:46 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/24/2020 02:42:42 AM - seleniumDriver - INFO: Element not found None
+05/24/2020 02:42:49 AM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 02:42:49 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="055a7082a2f3add61d8f885cd3083723", element="9f407804-da70-4c01-af78-6ad4e4d0e679")>
+05/24/2020 02:43:32 AM - seleniumDriver - INFO: Element not found None
+05/24/2020 02:43:38 AM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 02:43:38 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="db73f6d09e2813ba16c38ed61bdb4875", element="fe7204d8-213d-45e6-bcb8-f099841878fa")>
+05/24/2020 02:44:45 AM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 02:44:45 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="6ca88a4acddddc40592d4ae492fff8c1", element="0969e78f-3fa9-4f08-a8b5-2b65b1f78848")>
+05/24/2020 02:44:55 AM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 02:44:55 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="6ca88a4acddddc40592d4ae492fff8c1", element="14c3a760-8fa3-4e6e-bf1a-2b2cc965249a")>
+05/24/2020 02:44:55 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/24/2020 02:44:55 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/24/2020 02:44:55 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="6ca88a4acddddc40592d4ae492fff8c1", element="14c3a760-8fa3-4e6e-bf1a-2b2cc965249a")>
+05/24/2020 02:44:55 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/24/2020 02:44:55 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/24/2020 02:45:45 AM - seleniumDriver - INFO: Element not found None
+05/24/2020 02:45:51 AM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 02:45:51 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="8419e7c1709a026deaef369b02fc8c9e", element="ee9dcfa9-5602-45c8-8f13-b0e230111917")>
+05/24/2020 02:46:50 AM - seleniumDriver - INFO: Element not found None
+05/24/2020 02:46:57 AM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 02:46:57 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="722183909e6076567dad414d3acd46d8", element="3cee6f62-303f-4ca8-81d4-36d1a3b4c244")>
+05/24/2020 02:47:52 AM - seleniumDriver - INFO: Element not found None
+05/24/2020 02:47:58 AM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 02:47:58 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="52460152fdf600f1b2da3fbc93c36ca7", element="8190b89c-1426-4e32-8af6-ec11df032483")>
+05/24/2020 08:02:28 AM - seleniumDriver - INFO: Element not found None
+05/24/2020 08:02:35 AM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 08:02:35 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="3372176d290219067c68299408be00c5", element="5a58fdce-8c45-4396-abfc-a5d7c8cdce75")>
+05/24/2020 08:03:31 AM - seleniumDriver - INFO: Element not found None
+05/24/2020 08:03:37 AM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 08:03:37 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="10bf9384003798802e7b57c64c4daf24", element="9002b4c0-5b67-46ed-a8d1-1f0558b143a2")>
+05/24/2020 08:03:44 AM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 08:03:44 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="10bf9384003798802e7b57c64c4daf24", element="2c2d2fe8-f332-4de0-b6ef-4a99de4ad21e")>
+05/24/2020 08:03:44 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/24/2020 08:03:45 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/24/2020 08:03:45 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="10bf9384003798802e7b57c64c4daf24", element="2c2d2fe8-f332-4de0-b6ef-4a99de4ad21e")>
+05/24/2020 08:03:45 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/24/2020 08:03:45 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/24/2020 08:09:18 AM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 08:09:18 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="cd87baf326984b8cebf2e593382bc257", element="9b24a6aa-310a-45d7-b327-148a13e9d5fb")>
+05/24/2020 08:09:25 AM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 08:09:25 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="cd87baf326984b8cebf2e593382bc257", element="7c3d58fb-641b-4b50-97b0-6f47ec0d1002")>
+05/24/2020 08:09:25 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/24/2020 08:09:25 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/24/2020 08:09:25 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="cd87baf326984b8cebf2e593382bc257", element="7c3d58fb-641b-4b50-97b0-6f47ec0d1002")>
+05/24/2020 08:09:25 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/24/2020 08:09:25 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/24/2020 08:11:58 AM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 08:11:58 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="453993a26e1dcac2ad4314af06b803ef", element="9ce2226f-3b3f-43a7-b3a8-edfa0e4c3a05")>
+05/24/2020 08:12:06 AM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 08:12:06 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="453993a26e1dcac2ad4314af06b803ef", element="f8543fab-e4e9-4104-8a88-36b8e63c7695")>
+05/24/2020 08:12:06 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/24/2020 08:12:06 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/24/2020 08:12:06 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="453993a26e1dcac2ad4314af06b803ef", element="f8543fab-e4e9-4104-8a88-36b8e63c7695")>
+05/24/2020 08:12:06 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/24/2020 08:12:06 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/24/2020 08:17:58 AM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 08:17:58 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="4906157e96715f66447a7cd388d6f354", element="da03e598-9bf6-4378-b904-e77c9f1bf7bc")>
+05/24/2020 08:18:05 AM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 08:18:05 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="4906157e96715f66447a7cd388d6f354", element="e053a1b9-ee8b-477d-bb42-92ffaead2040")>
+05/24/2020 08:18:05 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/24/2020 08:18:05 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/24/2020 08:18:05 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="4906157e96715f66447a7cd388d6f354", element="e053a1b9-ee8b-477d-bb42-92ffaead2040")>
+05/24/2020 08:18:05 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/24/2020 08:18:05 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/24/2020 08:22:36 AM - seleniumDriver - INFO: Element not found None
+05/24/2020 08:22:42 AM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 08:22:42 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="761c86338c2baee2a4c743a031bee66d", element="c85362ed-fa28-4a38-83b0-088a4c0e5487")>
+05/24/2020 08:22:50 AM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 08:22:50 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="761c86338c2baee2a4c743a031bee66d", element="1b9b84c8-bfef-4982-98df-aa4986125d6f")>
+05/24/2020 08:22:50 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/24/2020 08:22:50 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/24/2020 08:22:50 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="761c86338c2baee2a4c743a031bee66d", element="1b9b84c8-bfef-4982-98df-aa4986125d6f")>
+05/24/2020 08:22:50 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/24/2020 08:22:50 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/24/2020 08:25:25 AM - seleniumDriver - INFO: Element not found None
+05/24/2020 08:25:31 AM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 08:25:31 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="cb06c7394b300f8fa285686a115ce1b3", element="e668b805-8684-4cbf-a4f1-6e8b314c0328")>
+05/24/2020 08:25:38 AM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 08:25:38 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="cb06c7394b300f8fa285686a115ce1b3", element="d47afebc-2aee-4b2b-88db-e45fac80e453")>
+05/24/2020 08:25:38 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/24/2020 08:25:38 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/24/2020 08:25:38 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="cb06c7394b300f8fa285686a115ce1b3", element="d47afebc-2aee-4b2b-88db-e45fac80e453")>
+05/24/2020 08:25:38 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/24/2020 08:25:38 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/24/2020 08:27:04 AM - seleniumDriver - INFO: Element not found None
+05/24/2020 08:27:10 AM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 08:27:10 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="5a685987803017c7016d7cc97da13924", element="dc3f9f55-89f4-40b5-9570-005fcc1f3094")>
+05/24/2020 08:27:17 AM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 08:27:17 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="5a685987803017c7016d7cc97da13924", element="194e7595-df44-4a95-a657-0fd1c3bf5533")>
+05/24/2020 08:27:17 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/24/2020 08:27:17 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/24/2020 08:27:17 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="5a685987803017c7016d7cc97da13924", element="194e7595-df44-4a95-a657-0fd1c3bf5533")>
+05/24/2020 08:27:17 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/24/2020 08:27:17 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/24/2020 05:50:56 PM - seleniumDriver - INFO: Element not found None
+05/24/2020 05:51:03 PM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 05:51:03 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="1520fff64b26c20bfc6a0a6dc4118c48", element="4c389c9b-ac5c-47fb-873f-9b69b822b051")>
+05/24/2020 05:51:10 PM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 05:51:10 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="1520fff64b26c20bfc6a0a6dc4118c48", element="5b4b78a3-9611-40ad-945c-14070f9e5da7")>
+05/24/2020 05:51:10 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/24/2020 05:51:10 PM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/24/2020 05:51:10 PM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="1520fff64b26c20bfc6a0a6dc4118c48", element="5b4b78a3-9611-40ad-945c-14070f9e5da7")>
+05/24/2020 05:51:10 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/24/2020 05:51:10 PM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/24/2020 06:06:48 PM - seleniumDriver - INFO: Element not found None
+05/24/2020 06:06:54 PM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 06:06:54 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="d02046a6e842d8e9ae80199696c6ba65", element="50bd762d-4799-4071-9afc-023d4df7634a")>
+05/24/2020 06:07:04 PM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 06:07:04 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="d02046a6e842d8e9ae80199696c6ba65", element="d45995ea-1c1d-4efb-8f55-c7f2afb531f4")>
+05/24/2020 06:07:04 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/24/2020 06:07:04 PM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/24/2020 06:07:04 PM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="d02046a6e842d8e9ae80199696c6ba65", element="d45995ea-1c1d-4efb-8f55-c7f2afb531f4")>
+05/24/2020 06:07:04 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/24/2020 06:07:04 PM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/24/2020 06:09:52 PM - seleniumDriver - INFO: Element not found None
+05/24/2020 06:09:58 PM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 06:09:58 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="2399782ad997eafe0f0549b7f458de7f", element="9e4a5807-4a9f-4ced-b832-66ef8d7eb3ab")>
+05/24/2020 06:10:07 PM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 06:10:07 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="2399782ad997eafe0f0549b7f458de7f", element="c966fc9f-d702-4338-aeb4-ffceadbaa81f")>
+05/24/2020 06:10:07 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/24/2020 06:10:07 PM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/24/2020 06:10:07 PM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="2399782ad997eafe0f0549b7f458de7f", element="c966fc9f-d702-4338-aeb4-ffceadbaa81f")>
+05/24/2020 06:10:07 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/24/2020 06:10:07 PM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/24/2020 06:19:01 PM - seleniumDriver - INFO: Element not found None
+05/24/2020 06:19:07 PM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 06:19:07 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="b505c41026d515118271f61f94566c21", element="18fc97b8-10f7-47e7-9c83-568bd5941518")>
+05/24/2020 06:19:18 PM - seleniumDriver - INFO: using explicit wait function
+05/24/2020 06:19:18 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="b505c41026d515118271f61f94566c21", element="8c44717e-b0de-4380-954a-ce565473bf7a")>
+05/24/2020 06:19:18 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/24/2020 06:19:18 PM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/24/2020 06:19:18 PM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="b505c41026d515118271f61f94566c21", element="8c44717e-b0de-4380-954a-ce565473bf7a")>
+05/24/2020 06:19:18 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/24/2020 06:19:18 PM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/25/2020 12:04:11 AM - seleniumDriver - INFO: Element not found None
+05/25/2020 12:04:18 AM - seleniumDriver - INFO: using explicit wait function
+05/25/2020 12:04:18 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="031df64a79fdad28c793420c36aea5f0", element="ead42ddf-01c1-4666-b6e6-30460bafafad")>
+05/25/2020 12:04:26 AM - seleniumDriver - INFO: using explicit wait function
+05/25/2020 12:04:26 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="031df64a79fdad28c793420c36aea5f0", element="6ebf9528-6f45-4f05-854a-c6124e7ceadb")>
+05/25/2020 12:04:26 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/25/2020 12:04:26 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/25/2020 12:04:26 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="031df64a79fdad28c793420c36aea5f0", element="6ebf9528-6f45-4f05-854a-c6124e7ceadb")>
+05/25/2020 12:04:26 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/25/2020 12:04:26 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/25/2020 12:06:58 AM - seleniumDriver - INFO: using explicit wait function
+05/25/2020 12:06:58 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="f5d08be18f7b2e6e999900b1870e66d7", element="5916f11f-d9a5-4619-a6bb-bdd1e66d7bc2")>
+05/25/2020 12:07:06 AM - seleniumDriver - INFO: using explicit wait function
+05/25/2020 12:07:06 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="f5d08be18f7b2e6e999900b1870e66d7", element="2e922bda-a648-4b79-a7dc-0bc4f5cc625d")>
+05/25/2020 12:07:06 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/25/2020 12:07:06 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/25/2020 12:07:06 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="f5d08be18f7b2e6e999900b1870e66d7", element="2e922bda-a648-4b79-a7dc-0bc4f5cc625d")>
+05/25/2020 12:07:06 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/25/2020 12:07:06 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/25/2020 12:09:07 AM - seleniumDriver - INFO: using explicit wait function
+05/25/2020 12:09:07 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="7f97461c598cff46a8ed484e6654df15", element="25a47880-06d7-4d0b-b667-c3d827a96f93")>
+05/25/2020 12:09:15 AM - seleniumDriver - INFO: using explicit wait function
+05/25/2020 12:09:15 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="7f97461c598cff46a8ed484e6654df15", element="bb494b53-b363-480d-818a-41d5c85a58b3")>
+05/25/2020 12:09:15 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/25/2020 12:09:15 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/25/2020 12:09:15 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="7f97461c598cff46a8ed484e6654df15", element="bb494b53-b363-480d-818a-41d5c85a58b3")>
+05/25/2020 12:09:15 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/25/2020 12:09:15 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/25/2020 12:19:25 AM - seleniumDriver - INFO: using explicit wait function
+05/25/2020 12:19:25 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="fc4618c0cb65b0c13830960f7c46d68d", element="ee9b3a5a-c4a1-4954-898f-54129e837fac")>
+05/25/2020 12:19:31 AM - seleniumDriver - INFO: using explicit wait function
+05/25/2020 12:19:31 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="fc4618c0cb65b0c13830960f7c46d68d", element="88bfad6e-537a-4148-960f-89cc3fc8e638")>
+05/25/2020 12:19:31 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/25/2020 12:19:31 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/25/2020 12:19:31 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="fc4618c0cb65b0c13830960f7c46d68d", element="88bfad6e-537a-4148-960f-89cc3fc8e638")>
+05/25/2020 12:19:31 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/25/2020 12:19:31 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/25/2020 12:22:23 AM - seleniumDriver - INFO: using explicit wait function
+05/25/2020 12:22:23 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="b75f989b23916f2799babe9459d07dbd", element="60f2a9bc-0623-4e1a-8d4d-30176a4e1ee9")>
+05/25/2020 12:22:30 AM - seleniumDriver - INFO: using explicit wait function
+05/25/2020 12:22:30 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="b75f989b23916f2799babe9459d07dbd", element="e459979d-9599-4612-a7a4-d10d8932624f")>
+05/25/2020 12:22:30 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/25/2020 12:22:30 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/25/2020 12:22:30 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="b75f989b23916f2799babe9459d07dbd", element="e459979d-9599-4612-a7a4-d10d8932624f")>
+05/25/2020 12:22:30 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/25/2020 12:22:30 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/25/2020 12:25:26 AM - seleniumDriver - INFO: using explicit wait function
+05/25/2020 12:25:26 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="91c4f98dfc3d2f14b7c9c4c36f35468f", element="0a09bb9d-04c5-467b-b938-500b3546dab9")>
+05/25/2020 12:25:34 AM - seleniumDriver - INFO: using explicit wait function
+05/25/2020 12:25:34 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="91c4f98dfc3d2f14b7c9c4c36f35468f", element="1dede4f8-45a9-435c-a141-d9d37b6bb2f2")>
+05/25/2020 12:25:34 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/25/2020 12:25:34 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/25/2020 12:25:34 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="91c4f98dfc3d2f14b7c9c4c36f35468f", element="1dede4f8-45a9-435c-a141-d9d37b6bb2f2")>
+05/25/2020 12:25:34 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/25/2020 12:25:34 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/25/2020 12:38:55 AM - seleniumDriver - INFO: using explicit wait function
+05/25/2020 12:38:55 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="b5b043e199005135e423d2b40969b1ff", element="d4526274-795d-4891-b273-24ff0a646cbb")>
+05/25/2020 12:39:02 AM - seleniumDriver - INFO: using explicit wait function
+05/25/2020 12:39:02 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="b5b043e199005135e423d2b40969b1ff", element="8d9ff296-9409-450b-8e15-854538e53e59")>
+05/25/2020 12:39:02 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/25/2020 12:39:02 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/25/2020 12:39:02 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="b5b043e199005135e423d2b40969b1ff", element="8d9ff296-9409-450b-8e15-854538e53e59")>
+05/25/2020 12:39:02 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/25/2020 12:39:02 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/25/2020 12:45:05 AM - seleniumDriver - INFO: using explicit wait function
+05/25/2020 12:45:05 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="d5519cff703a9ee5cae27ec3f477a073", element="a3c49c16-c39e-4736-ad11-e83c58a64245")>
+05/25/2020 12:45:12 AM - seleniumDriver - INFO: using explicit wait function
+05/25/2020 12:45:12 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="d5519cff703a9ee5cae27ec3f477a073", element="9563f59c-a4b2-49fc-a5a0-695679f78842")>
+05/25/2020 12:45:12 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/25/2020 12:45:12 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/25/2020 12:45:12 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="d5519cff703a9ee5cae27ec3f477a073", element="9563f59c-a4b2-49fc-a5a0-695679f78842")>
+05/25/2020 12:45:12 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/25/2020 12:45:12 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/25/2020 12:47:20 AM - seleniumDriver - INFO: using explicit wait function
+05/25/2020 12:47:20 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="e98c6a0e719b9eec717b8dbf282df4d0", element="9f272d2e-487a-4e90-abcb-366236954747")>
+05/25/2020 12:47:27 AM - seleniumDriver - INFO: using explicit wait function
+05/25/2020 12:47:27 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="e98c6a0e719b9eec717b8dbf282df4d0", element="0444e68a-9c2a-42f2-8a3e-37d71b6961cb")>
+05/25/2020 12:47:27 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/25/2020 12:47:27 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/25/2020 12:47:27 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="e98c6a0e719b9eec717b8dbf282df4d0", element="0444e68a-9c2a-42f2-8a3e-37d71b6961cb")>
+05/25/2020 12:47:27 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/25/2020 12:47:27 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/25/2020 12:54:56 AM - seleniumDriver - INFO: using explicit wait function
+05/25/2020 12:54:56 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="b1e22c04917b5f9061753c9b5af12436", element="842e57fb-b183-4e2b-a89b-0e09a5ac2a14")>
+05/25/2020 12:55:04 AM - seleniumDriver - INFO: using explicit wait function
+05/25/2020 12:55:04 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="b1e22c04917b5f9061753c9b5af12436", element="584fbd82-7056-4f16-b4c9-4a3651fa2102")>
+05/25/2020 12:55:04 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/25/2020 12:55:04 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/25/2020 12:55:04 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="b1e22c04917b5f9061753c9b5af12436", element="584fbd82-7056-4f16-b4c9-4a3651fa2102")>
+05/25/2020 12:55:04 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/25/2020 12:55:04 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/25/2020 01:00:01 AM - seleniumDriver - INFO: using explicit wait function
+05/25/2020 01:00:01 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="fcbb9f502b0607f5d3605db9161c1d12", element="028f7e9f-6901-46d9-8663-106be5a7782d")>
+05/25/2020 01:00:08 AM - seleniumDriver - INFO: using explicit wait function
+05/25/2020 01:00:08 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="fcbb9f502b0607f5d3605db9161c1d12", element="2ba03260-ded6-4070-a31c-b99c9b2a02b0")>
+05/25/2020 01:00:08 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/25/2020 01:00:08 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/25/2020 01:00:08 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="fcbb9f502b0607f5d3605db9161c1d12", element="2ba03260-ded6-4070-a31c-b99c9b2a02b0")>
+05/25/2020 01:00:08 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/25/2020 01:00:08 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/25/2020 11:37:24 PM - seleniumDriver - INFO: Element not found None
+05/25/2020 11:37:27 PM - seleniumDriver - INFO: using explicit wait function
+05/25/2020 11:37:27 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="1d0a3b32a664678505c68231d05f4781", element="16010670-8780-4291-8bff-291ae83d0170")>
+05/25/2020 11:37:34 PM - seleniumDriver - INFO: using explicit wait function
+05/25/2020 11:37:34 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="1d0a3b32a664678505c68231d05f4781", element="8d9bb563-eb5b-4730-b484-d5abfe158286")>
+05/25/2020 11:37:34 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/25/2020 11:37:34 PM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/25/2020 11:37:34 PM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="1d0a3b32a664678505c68231d05f4781", element="8d9bb563-eb5b-4730-b484-d5abfe158286")>
+05/25/2020 11:37:34 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/25/2020 11:37:34 PM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/25/2020 11:40:29 PM - seleniumDriver - INFO: Element not found None
+05/25/2020 11:40:32 PM - seleniumDriver - INFO: using explicit wait function
+05/25/2020 11:40:32 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="43ab6deca17cfbc443a5f1803d931b0e", element="a81001ba-0c5e-4c8d-b8d1-6247fe819d3e")>
+05/25/2020 11:40:39 PM - seleniumDriver - INFO: using explicit wait function
+05/25/2020 11:40:39 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="43ab6deca17cfbc443a5f1803d931b0e", element="a3456daa-ad4a-4cd0-b2f6-6b825f4df5ea")>
+05/25/2020 11:40:39 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/25/2020 11:40:39 PM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/25/2020 11:40:39 PM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="43ab6deca17cfbc443a5f1803d931b0e", element="a3456daa-ad4a-4cd0-b2f6-6b825f4df5ea")>
+05/25/2020 11:40:39 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/25/2020 11:40:39 PM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/25/2020 11:44:15 PM - seleniumDriver - INFO: Element not found None
+05/25/2020 11:44:22 PM - seleniumDriver - INFO: using explicit wait function
+05/25/2020 11:44:22 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="152e09488201c6ef3707cc8a4e27f029", element="c4c07447-b4c4-46ec-a10a-029b9dace0f9")>
+05/25/2020 11:44:28 PM - seleniumDriver - INFO: using explicit wait function
+05/25/2020 11:44:28 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="152e09488201c6ef3707cc8a4e27f029", element="c62eb656-1a0a-478b-935c-4bf51a1781f2")>
+05/25/2020 11:44:28 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/25/2020 11:44:28 PM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/25/2020 11:44:28 PM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="152e09488201c6ef3707cc8a4e27f029", element="c62eb656-1a0a-478b-935c-4bf51a1781f2")>
+05/25/2020 11:44:28 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/25/2020 11:44:28 PM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/25/2020 11:46:35 PM - seleniumDriver - INFO: Element not found None
+05/25/2020 11:46:42 PM - seleniumDriver - INFO: using explicit wait function
+05/25/2020 11:46:42 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="b157a27cc29fe5d0b4192338b4d6e462", element="cf15373d-915b-4b5a-9f88-d292f7ac7e93")>
+05/25/2020 11:48:49 PM - seleniumDriver - INFO: Element not found None
+05/25/2020 11:48:55 PM - seleniumDriver - INFO: using explicit wait function
+05/25/2020 11:48:55 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="02316d93387a7e6c8b3e339d66aa14ff", element="f8e51b2f-9085-435d-a51d-5c0c39aeb64b")>
+05/25/2020 11:49:03 PM - seleniumDriver - INFO: using explicit wait function
+05/25/2020 11:49:03 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="02316d93387a7e6c8b3e339d66aa14ff", element="8d9e1b64-52d6-493a-86f7-5582488d83e8")>
+05/25/2020 11:49:03 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/25/2020 11:49:03 PM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/25/2020 11:49:03 PM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="02316d93387a7e6c8b3e339d66aa14ff", element="8d9e1b64-52d6-493a-86f7-5582488d83e8")>
+05/25/2020 11:49:03 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/25/2020 11:49:03 PM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/26/2020 12:16:06 AM - seleniumDriver - INFO: Element not found None
+05/26/2020 12:16:13 AM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 12:16:13 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="eaeb4ddfbd8626ef482eaf7299e9e4f6", element="986882a2-d760-40a7-ae3f-dea904cf0c5d")>
+05/26/2020 12:16:21 AM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 12:16:21 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="eaeb4ddfbd8626ef482eaf7299e9e4f6", element="e090cb72-09a7-4217-b61f-b591019b8ebe")>
+05/26/2020 12:16:21 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/26/2020 12:16:23 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/26/2020 12:16:23 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="eaeb4ddfbd8626ef482eaf7299e9e4f6", element="e090cb72-09a7-4217-b61f-b591019b8ebe")>
+05/26/2020 12:16:23 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/26/2020 12:16:23 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/26/2020 12:17:11 AM - seleniumDriver - INFO: Element not found None
+05/26/2020 12:17:18 AM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 12:17:18 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="38d4cac28d27f63b40ed406ce46eca96", element="6e816374-b3af-46b3-aeb7-b2d4a78c8c2a")>
+05/26/2020 12:17:25 AM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 12:17:25 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="38d4cac28d27f63b40ed406ce46eca96", element="2fb841e2-c382-4cc6-af89-a81ead5f40c1")>
+05/26/2020 12:17:25 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/26/2020 12:17:26 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/26/2020 12:17:26 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="38d4cac28d27f63b40ed406ce46eca96", element="2fb841e2-c382-4cc6-af89-a81ead5f40c1")>
+05/26/2020 12:17:26 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/26/2020 12:17:26 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/26/2020 12:23:20 AM - seleniumDriver - INFO: Element not found None
+05/26/2020 12:23:26 AM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 12:23:26 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="7d123bade495f789e1b5a04fab9a54a7", element="dfdde93d-b75a-438f-839b-e52258333bed")>
+05/26/2020 12:23:33 AM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 12:23:33 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="7d123bade495f789e1b5a04fab9a54a7", element="0b6efe2d-89a2-4fd9-a0b7-37acc4710b4b")>
+05/26/2020 12:23:33 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/26/2020 12:23:35 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/26/2020 12:23:35 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="7d123bade495f789e1b5a04fab9a54a7", element="0b6efe2d-89a2-4fd9-a0b7-37acc4710b4b")>
+05/26/2020 12:23:35 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/26/2020 12:23:35 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/26/2020 12:24:17 AM - seleniumDriver - INFO: Element not found None
+05/26/2020 12:24:23 AM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 12:24:23 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="b7794e3387bf242ba24976e492a0183e", element="db8d924f-c400-4e8a-af4e-8d8fb4d1bbc0")>
+05/26/2020 12:24:32 AM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 12:24:32 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="b7794e3387bf242ba24976e492a0183e", element="d1b18e82-46c4-406a-8e77-fab36f4bebab")>
+05/26/2020 12:24:32 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/26/2020 12:24:34 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/26/2020 12:24:34 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="b7794e3387bf242ba24976e492a0183e", element="d1b18e82-46c4-406a-8e77-fab36f4bebab")>
+05/26/2020 12:24:34 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/26/2020 12:24:34 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/26/2020 12:30:05 AM - seleniumDriver - INFO: Element not found None
+05/26/2020 12:30:11 AM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 12:30:11 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="dfd1bcd4306007b9800c8b311aae7107", element="4ee7be59-3b8d-4919-92de-b9e08c9f45f0")>
+05/26/2020 12:30:18 AM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 12:30:18 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="dfd1bcd4306007b9800c8b311aae7107", element="3f3a5a21-7f82-49e9-a1d2-9be760022c92")>
+05/26/2020 12:30:18 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/26/2020 12:30:20 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/26/2020 12:30:20 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="dfd1bcd4306007b9800c8b311aae7107", element="3f3a5a21-7f82-49e9-a1d2-9be760022c92")>
+05/26/2020 12:30:20 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/26/2020 12:30:20 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/26/2020 12:31:44 AM - seleniumDriver - INFO: Element not found None
+05/26/2020 12:31:51 AM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 12:31:51 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="0ad740cb00dcbc89f58ce1c066c76298", element="f1a8a211-e6c0-43a3-b3c3-a3b05a24597f")>
+05/26/2020 12:31:58 AM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 12:31:58 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="0ad740cb00dcbc89f58ce1c066c76298", element="87dbba96-6e96-4ff6-b9be-2350ef844f10")>
+05/26/2020 12:31:58 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/26/2020 12:32:00 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/26/2020 12:32:00 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="0ad740cb00dcbc89f58ce1c066c76298", element="87dbba96-6e96-4ff6-b9be-2350ef844f10")>
+05/26/2020 12:32:00 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/26/2020 12:32:00 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/26/2020 12:51:30 AM - seleniumDriver - INFO: Element not found None
+05/26/2020 12:51:37 AM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 12:51:37 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="d391c8fb519d8927354ed484f737e91c", element="8b53d4f6-f8cc-4eaa-bb76-cd8b6bb6ae36")>
+05/26/2020 12:51:43 AM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 12:51:43 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="d391c8fb519d8927354ed484f737e91c", element="9bc9d8a2-713e-4d3f-8d74-b1d44d8ec3b8")>
+05/26/2020 12:51:43 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/26/2020 12:51:45 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/26/2020 12:51:45 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="d391c8fb519d8927354ed484f737e91c", element="9bc9d8a2-713e-4d3f-8d74-b1d44d8ec3b8")>
+05/26/2020 12:51:45 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/26/2020 12:51:45 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/26/2020 12:53:10 AM - seleniumDriver - INFO: Element not found None
+05/26/2020 12:53:16 AM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 12:53:16 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="531d89dbab7d160e38783a30523cd12e", element="7937d5d6-e9e0-4e9e-8696-8c080722e39d")>
+05/26/2020 12:53:24 AM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 12:53:24 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="531d89dbab7d160e38783a30523cd12e", element="fba0f34d-226e-4a70-8329-25eb6ca38668")>
+05/26/2020 12:53:24 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/26/2020 12:53:27 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/26/2020 12:53:27 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="531d89dbab7d160e38783a30523cd12e", element="fba0f34d-226e-4a70-8329-25eb6ca38668")>
+05/26/2020 12:53:27 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/26/2020 12:53:27 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/26/2020 12:56:02 AM - seleniumDriver - INFO: Element not found None
+05/26/2020 12:56:08 AM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 12:56:08 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="66efecd658447ba424ec3ff1354b7713", element="aaff46c0-65e8-4dac-9bf0-e752603f40a7")>
+05/26/2020 12:56:16 AM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 12:56:16 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="66efecd658447ba424ec3ff1354b7713", element="31d477f9-dd35-4454-925c-ad2722c6bcfb")>
+05/26/2020 12:56:16 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/26/2020 12:56:18 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/26/2020 12:56:18 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="66efecd658447ba424ec3ff1354b7713", element="31d477f9-dd35-4454-925c-ad2722c6bcfb")>
+05/26/2020 12:56:18 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/26/2020 12:56:18 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/26/2020 12:58:21 AM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 12:58:21 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="d0cb0816aad57ac71772dc9f5af21091", element="0f80c2dd-305f-4c76-bea1-423ac1a4defa")>
+05/26/2020 12:58:29 AM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 12:58:29 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="d0cb0816aad57ac71772dc9f5af21091", element="17947b71-3eca-48bb-b7a2-92afee07e6c6")>
+05/26/2020 12:58:29 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/26/2020 12:58:31 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/26/2020 12:58:31 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="d0cb0816aad57ac71772dc9f5af21091", element="17947b71-3eca-48bb-b7a2-92afee07e6c6")>
+05/26/2020 12:58:31 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/26/2020 12:58:31 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/26/2020 01:00:41 AM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 01:00:41 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="657a51c12d5cb3aeb886630c64046ce0", element="e4dbb8ad-3450-49a6-aeb7-aaa181914c42")>
+05/26/2020 01:00:48 AM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 01:00:48 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="657a51c12d5cb3aeb886630c64046ce0", element="39faee29-0276-4e5b-9797-8fe6aa997855")>
+05/26/2020 01:00:48 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/26/2020 01:00:50 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/26/2020 01:00:50 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="657a51c12d5cb3aeb886630c64046ce0", element="39faee29-0276-4e5b-9797-8fe6aa997855")>
+05/26/2020 01:00:50 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/26/2020 01:00:50 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/26/2020 01:26:47 AM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 01:26:47 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="3537b2511fe4dc6fd719872faee18b9b", element="4bbf001e-a770-4aa7-92fb-de84f0ae1cfd")>
+05/26/2020 01:26:54 AM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 01:26:54 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="3537b2511fe4dc6fd719872faee18b9b", element="ab36302c-6fed-41a9-8c2d-c92ecd86349e")>
+05/26/2020 01:26:54 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/26/2020 01:26:56 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/26/2020 01:26:56 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="3537b2511fe4dc6fd719872faee18b9b", element="ab36302c-6fed-41a9-8c2d-c92ecd86349e")>
+05/26/2020 01:26:56 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/26/2020 01:26:56 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/26/2020 01:27:39 AM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 01:27:39 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="dcffce50c2af83793e04826e7f17d103", element="bdc85d9d-9feb-48f1-b694-0d604b24717d")>
+05/26/2020 01:27:45 AM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 01:27:45 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="dcffce50c2af83793e04826e7f17d103", element="2f129665-8e01-455b-be98-b7b00dc5502a")>
+05/26/2020 01:27:45 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/26/2020 01:27:47 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/26/2020 01:27:47 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="dcffce50c2af83793e04826e7f17d103", element="2f129665-8e01-455b-be98-b7b00dc5502a")>
+05/26/2020 01:27:47 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/26/2020 01:27:47 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/26/2020 01:31:43 AM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 01:31:43 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="44cf3e5ba9f1939521c896f7a6bdedea", element="9ecf341d-4af7-466b-8c63-a214d8d891ec")>
+05/26/2020 01:31:49 AM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 01:31:49 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="44cf3e5ba9f1939521c896f7a6bdedea", element="85770e71-2681-40c6-bc39-d113bb25f56e")>
+05/26/2020 01:31:49 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/26/2020 01:31:51 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/26/2020 01:31:51 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="44cf3e5ba9f1939521c896f7a6bdedea", element="85770e71-2681-40c6-bc39-d113bb25f56e")>
+05/26/2020 01:31:51 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/26/2020 01:31:51 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/26/2020 01:34:02 AM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 01:34:02 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="56ca3dd456071a27c7310ad9d95d585a", element="8ffb7b7b-1c60-4ad7-b235-7edcae6de7f1")>
+05/26/2020 01:34:10 AM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 01:34:10 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="56ca3dd456071a27c7310ad9d95d585a", element="a2a13238-38c5-41d3-8820-d4c36a07333a")>
+05/26/2020 01:34:10 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/26/2020 01:34:11 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/26/2020 01:34:11 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="56ca3dd456071a27c7310ad9d95d585a", element="a2a13238-38c5-41d3-8820-d4c36a07333a")>
+05/26/2020 01:34:11 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/26/2020 01:34:11 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/26/2020 01:34:54 AM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 01:34:54 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="194dcf7a5d14443cf17444ebf7156f0a", element="521214d0-f232-42c2-a9fa-2fedf7d20c6f")>
+05/26/2020 01:35:00 AM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 01:35:00 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="194dcf7a5d14443cf17444ebf7156f0a", element="69e21c90-d2f8-4799-be50-f3390a191d3d")>
+05/26/2020 01:35:00 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/26/2020 01:35:02 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/26/2020 01:35:02 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="194dcf7a5d14443cf17444ebf7156f0a", element="69e21c90-d2f8-4799-be50-f3390a191d3d")>
+05/26/2020 01:35:02 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/26/2020 01:35:02 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/26/2020 01:37:47 AM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 01:37:47 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="fcf3a5ecd11c8a17d01290a7badf3c11", element="4259a772-6f68-4ba6-a66e-5eb8a778ffd3")>
+05/26/2020 01:37:54 AM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 01:37:54 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="fcf3a5ecd11c8a17d01290a7badf3c11", element="b3ed1259-ba07-4599-af4e-c2c829561802")>
+05/26/2020 01:37:54 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/26/2020 01:37:56 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/26/2020 01:37:56 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="fcf3a5ecd11c8a17d01290a7badf3c11", element="b3ed1259-ba07-4599-af4e-c2c829561802")>
+05/26/2020 01:37:56 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/26/2020 01:37:56 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/26/2020 01:39:32 AM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 01:39:32 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="e1cb775bdc716b94c91877153fc2f52a", element="9a8331dd-098d-4905-b2d4-720a145ba165")>
+05/26/2020 01:39:39 AM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 01:39:39 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="e1cb775bdc716b94c91877153fc2f52a", element="204fefd4-9df4-4126-9cc2-73ce8e560920")>
+05/26/2020 01:39:39 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/26/2020 01:39:41 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/26/2020 01:39:41 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="e1cb775bdc716b94c91877153fc2f52a", element="204fefd4-9df4-4126-9cc2-73ce8e560920")>
+05/26/2020 01:39:41 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/26/2020 01:39:41 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/26/2020 01:41:38 AM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 01:41:38 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="3a3e9537ad7c7fa2823817e1bb6b8625", element="114a5b95-ba49-448f-844c-e4b009a9e895")>
+05/26/2020 01:41:45 AM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 01:41:45 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="3a3e9537ad7c7fa2823817e1bb6b8625", element="951040f2-66ee-4675-a6e1-6ee47282039c")>
+05/26/2020 01:41:45 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/26/2020 01:41:46 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/26/2020 01:41:46 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="3a3e9537ad7c7fa2823817e1bb6b8625", element="951040f2-66ee-4675-a6e1-6ee47282039c")>
+05/26/2020 01:41:46 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/26/2020 01:41:46 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/26/2020 01:41:57 AM - seleniumDriver - INFO: Element not found None
+05/26/2020 01:48:17 AM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 01:48:17 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="5058165062ca55c4daac69de3656c65f", element="84df6aac-55fd-4a67-b4a9-79631aa84424")>
+05/26/2020 01:48:23 AM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 01:48:23 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="5058165062ca55c4daac69de3656c65f", element="40d15233-9ff0-4f7b-aaa9-3df67c1f1abe")>
+05/26/2020 01:48:23 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/26/2020 01:48:25 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/26/2020 01:48:25 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="5058165062ca55c4daac69de3656c65f", element="40d15233-9ff0-4f7b-aaa9-3df67c1f1abe")>
+05/26/2020 01:48:25 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/26/2020 01:48:25 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/26/2020 01:49:23 AM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 01:49:23 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="49fb83a910dbb3fad6d10b4268fcc185", element="e1c6dc62-e95e-4e72-a470-2722f0e8a721")>
+05/26/2020 01:49:30 AM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 01:49:30 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="49fb83a910dbb3fad6d10b4268fcc185", element="dde24763-39b6-485d-a1a1-422844f63b8c")>
+05/26/2020 01:49:30 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/26/2020 01:49:32 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/26/2020 01:49:32 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="49fb83a910dbb3fad6d10b4268fcc185", element="dde24763-39b6-485d-a1a1-422844f63b8c")>
+05/26/2020 01:49:32 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/26/2020 01:49:32 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/26/2020 01:50:51 AM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 01:50:51 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="c6f151133d62c4f62bada24cb110dfcc", element="3fc70322-e36a-403c-b730-51dbe64e4d13")>
+05/26/2020 01:50:59 AM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 01:50:59 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="c6f151133d62c4f62bada24cb110dfcc", element="79d3ecd6-2617-4479-a414-e4279c997c3a")>
+05/26/2020 01:50:59 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/26/2020 01:51:02 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/26/2020 01:51:02 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="c6f151133d62c4f62bada24cb110dfcc", element="79d3ecd6-2617-4479-a414-e4279c997c3a")>
+05/26/2020 01:51:02 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/26/2020 01:51:02 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/26/2020 01:52:07 AM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 01:52:07 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="5367a9929796fe3a7f2927b669a79aa5", element="b6958412-4955-4ed5-821a-86f92716aa62")>
+05/26/2020 01:52:14 AM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 01:52:14 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="5367a9929796fe3a7f2927b669a79aa5", element="b51bca8d-9019-4bc8-8968-c4962d9cd7f2")>
+05/26/2020 01:52:14 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/26/2020 01:52:16 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/26/2020 01:52:16 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="5367a9929796fe3a7f2927b669a79aa5", element="b51bca8d-9019-4bc8-8968-c4962d9cd7f2")>
+05/26/2020 01:52:16 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/26/2020 01:52:16 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/26/2020 05:42:01 PM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 05:42:01 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="5692fbec8d17d69cb9db851211adfe82", element="50a8d1b3-a42f-451b-9a7c-b506d6a48644")>
+05/26/2020 05:42:13 PM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 05:42:13 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="5692fbec8d17d69cb9db851211adfe82", element="e3c2ce27-87b3-484d-ab29-127f794ca34c")>
+05/26/2020 05:42:13 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/26/2020 05:42:16 PM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/26/2020 05:42:16 PM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="5692fbec8d17d69cb9db851211adfe82", element="e3c2ce27-87b3-484d-ab29-127f794ca34c")>
+05/26/2020 05:42:16 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/26/2020 05:42:16 PM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/26/2020 05:43:14 PM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 05:43:14 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="691623b9370113dc46eaf67cdd597446", element="f72f88cb-aecf-4293-bc15-eb1b3603c7d7")>
+05/26/2020 05:43:22 PM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 05:43:22 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="691623b9370113dc46eaf67cdd597446", element="2ec29de2-376c-4165-8e2f-d933d32f199e")>
+05/26/2020 05:43:22 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/26/2020 05:44:18 PM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 05:44:18 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="3a2b00bb54c9ed2680101b9278d17ea1", element="8bb51203-2c51-4cbc-98ff-73109be74278")>
+05/26/2020 05:44:26 PM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 05:44:26 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="3a2b00bb54c9ed2680101b9278d17ea1", element="b4d51597-2822-4ea4-b7d8-33b139851f99")>
+05/26/2020 05:44:26 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/26/2020 05:45:39 PM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 05:45:39 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="977c07c262a437a6d841f7ae286b3503", element="cc9841a6-5921-4711-95e8-254f328aeb19")>
+05/26/2020 05:45:52 PM - seleniumDriver - INFO: using explicit wait function
+05/26/2020 05:45:52 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="977c07c262a437a6d841f7ae286b3503", element="b26e5bd1-9c4a-4097-8699-01be8d0290c7")>
+05/26/2020 05:45:52 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/27/2020 12:32:06 AM - seleniumDriver - INFO: using explicit wait function
+05/27/2020 12:32:06 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="7f7bd2f9f8db7fea4195eeb786d83f9f", element="acb11d1a-d61f-41c5-b42a-a6ee3578cfdc")>
+05/27/2020 12:32:12 AM - seleniumDriver - INFO: using explicit wait function
+05/27/2020 12:32:12 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="7f7bd2f9f8db7fea4195eeb786d83f9f", element="6e0df734-65f8-46e9-b3d9-94f74eeb5af2")>
+05/27/2020 12:32:12 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/27/2020 12:32:14 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/27/2020 12:32:14 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="7f7bd2f9f8db7fea4195eeb786d83f9f", element="6e0df734-65f8-46e9-b3d9-94f74eeb5af2")>
+05/27/2020 12:32:14 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/27/2020 12:32:14 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/27/2020 12:56:43 AM - seleniumDriver - INFO: using explicit wait function
+05/27/2020 12:56:43 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="e566b5456b98dbc8806af3b5172b0b30", element="bf01e76a-ddb8-4cbd-9557-921f960c04e1")>
+05/27/2020 12:56:43 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/27/2020 12:56:44 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/27/2020 12:56:44 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="e566b5456b98dbc8806af3b5172b0b30", element="bf01e76a-ddb8-4cbd-9557-921f960c04e1")>
+05/27/2020 12:56:44 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/27/2020 12:56:44 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/27/2020 01:07:09 AM - seleniumDriver - INFO: using explicit wait function
+05/27/2020 01:07:09 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="267d5efcfe737a18dfcfd461bfdeb325", element="ae7c8cb1-c77e-4ca7-a166-ca1e53633764")>
+05/27/2020 01:07:09 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/27/2020 01:07:11 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/27/2020 01:07:11 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="267d5efcfe737a18dfcfd461bfdeb325", element="ae7c8cb1-c77e-4ca7-a166-ca1e53633764")>
+05/27/2020 01:07:11 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/27/2020 01:07:11 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/27/2020 01:12:56 AM - seleniumDriver - INFO: using explicit wait function
+05/27/2020 01:12:56 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="ea2f6f37db6e1556973606ed22d0cac2", element="0a31f3dd-ed8e-4181-aee8-c8a3c172722e")>
+05/27/2020 01:12:56 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/27/2020 01:12:58 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/27/2020 01:12:58 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="ea2f6f37db6e1556973606ed22d0cac2", element="0a31f3dd-ed8e-4181-aee8-c8a3c172722e")>
+05/27/2020 01:12:58 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/27/2020 01:12:58 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/27/2020 01:31:18 AM - seleniumDriver - INFO: using explicit wait function
+05/27/2020 01:31:18 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="a6eddd8b35ee575d3899f05e4ccae789", element="4a7de835-d18c-4684-a224-b36afe37ab96")>
+05/27/2020 01:31:18 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/27/2020 01:31:20 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/27/2020 01:31:20 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="a6eddd8b35ee575d3899f05e4ccae789", element="4a7de835-d18c-4684-a224-b36afe37ab96")>
+05/27/2020 01:31:20 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/27/2020 01:31:20 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+05/27/2020 01:32:35 AM - seleniumDriver - INFO: using explicit wait function
+05/27/2020 01:32:35 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="59ecdfbe2eb37280c2021a7bd5d9c3d3", element="7ade1f76-f488-4fc2-b446-53496def1569")>
+05/27/2020 01:32:35 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+05/27/2020 01:32:37 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+05/27/2020 01:32:37 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="59ecdfbe2eb37280c2021a7bd5d9c3d3", element="7ade1f76-f488-4fc2-b446-53496def1569")>
+05/27/2020 01:32:37 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+05/27/2020 01:32:37 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+06/10/2020 12:48:43 AM - seleniumDriver - INFO: using explicit wait function
+06/10/2020 12:48:43 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="6f1af69582d72a1ae79b61861940be02", element="b18ed709-f106-4dea-87ac-2602569cdc09")>
+06/10/2020 12:48:43 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+06/10/2020 12:48:45 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+06/10/2020 12:48:45 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="6f1af69582d72a1ae79b61861940be02", element="b18ed709-f106-4dea-87ac-2602569cdc09")>
+06/10/2020 12:48:45 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+06/10/2020 12:48:45 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+06/10/2020 12:50:11 AM - seleniumDriver - INFO: using explicit wait function
+06/10/2020 12:50:11 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="9866ce2e815b3853b8c03f9ee9ac6f83", element="294f6b2d-ff57-4967-b3ee-9b0481236614")>
+06/10/2020 12:50:11 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+06/10/2020 12:50:14 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+06/10/2020 12:50:14 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="9866ce2e815b3853b8c03f9ee9ac6f83", element="294f6b2d-ff57-4967-b3ee-9b0481236614")>
+06/10/2020 12:50:14 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+06/10/2020 12:50:14 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+06/10/2020 12:53:33 AM - seleniumDriver - INFO: Element not found None
+06/10/2020 12:53:45 AM - seleniumDriver - INFO: using explicit wait function
+06/10/2020 12:53:45 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="b177618ee71d0c673b6a5b8c2ef1708a", element="b0f12032-c380-454c-a018-5370c2a1ec39")>
+06/10/2020 12:53:45 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+06/10/2020 12:53:46 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+06/10/2020 12:53:46 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="b177618ee71d0c673b6a5b8c2ef1708a", element="b0f12032-c380-454c-a018-5370c2a1ec39")>
+06/10/2020 12:53:46 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+06/10/2020 12:53:46 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+06/10/2020 12:54:51 AM - seleniumDriver - INFO: Element not found None
+06/10/2020 12:55:02 AM - seleniumDriver - INFO: using explicit wait function
+06/10/2020 12:55:02 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="44f12c2b84ed9464e8962ab2f75dde53", element="ee67e076-d232-4ff1-9f15-d534fea992d5")>
+06/10/2020 12:55:02 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+06/10/2020 12:55:04 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+06/10/2020 12:55:04 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="44f12c2b84ed9464e8962ab2f75dde53", element="ee67e076-d232-4ff1-9f15-d534fea992d5")>
+06/10/2020 12:55:04 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+06/10/2020 12:55:04 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+06/10/2020 12:57:47 AM - seleniumDriver - INFO: Element not found None
+06/10/2020 12:57:58 AM - seleniumDriver - INFO: using explicit wait function
+06/10/2020 12:57:58 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="83465f054d66a1a2b61fc6ad0c9cda67", element="de97d939-133a-4ae4-8976-f5c6ac129ea0")>
+06/10/2020 12:57:58 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+06/10/2020 12:58:00 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+06/10/2020 12:58:00 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="83465f054d66a1a2b61fc6ad0c9cda67", element="de97d939-133a-4ae4-8976-f5c6ac129ea0")>
+06/10/2020 12:58:00 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+06/10/2020 12:58:00 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+06/10/2020 12:59:25 AM - seleniumDriver - INFO: Element not found None
+06/10/2020 12:59:36 AM - seleniumDriver - INFO: using explicit wait function
+06/10/2020 12:59:36 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="b9f3b0a1888d0f46cc13661f6a2c3fea", element="6b5a5280-6314-49c5-a141-546f29054716")>
+06/10/2020 12:59:36 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+06/10/2020 12:59:38 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+06/10/2020 12:59:38 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="b9f3b0a1888d0f46cc13661f6a2c3fea", element="6b5a5280-6314-49c5-a141-546f29054716")>
+06/10/2020 12:59:38 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+06/10/2020 12:59:38 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+06/10/2020 01:03:37 AM - seleniumDriver - INFO: Element not found None
+06/10/2020 01:03:48 AM - seleniumDriver - INFO: using explicit wait function
+06/10/2020 01:03:48 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="780236398191ab9646faa4faf96d6aaf", element="39f9e47b-6008-4281-9092-4186344968d1")>
+06/10/2020 01:03:48 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+06/10/2020 01:03:49 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+06/10/2020 01:03:49 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="780236398191ab9646faa4faf96d6aaf", element="39f9e47b-6008-4281-9092-4186344968d1")>
+06/10/2020 01:03:49 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+06/10/2020 01:03:49 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+06/10/2020 01:05:16 AM - seleniumDriver - INFO: Element not found None
+06/10/2020 01:05:27 AM - seleniumDriver - INFO: using explicit wait function
+06/10/2020 01:05:27 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="179ac467fb6db38117a41f9f6f023837", element="98d6560b-97b3-45e2-bc18-420e188f90db")>
+06/10/2020 01:05:27 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+06/10/2020 01:05:30 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+06/10/2020 01:05:30 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="179ac467fb6db38117a41f9f6f023837", element="98d6560b-97b3-45e2-bc18-420e188f90db")>
+06/10/2020 01:05:30 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+06/10/2020 01:05:30 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+06/10/2020 01:12:26 AM - seleniumDriver - INFO: using explicit wait function
+06/10/2020 01:12:26 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="9d6afadcad4423361da91cc01c3472f0", element="e5f89299-cdf5-4485-aec7-70516cbf6bbd")>
+06/10/2020 01:12:26 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+06/10/2020 01:12:29 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+06/10/2020 01:12:29 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="9d6afadcad4423361da91cc01c3472f0", element="e5f89299-cdf5-4485-aec7-70516cbf6bbd")>
+06/10/2020 01:12:29 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+06/10/2020 01:12:29 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+06/10/2020 01:12:33 AM - seleniumDriver - INFO: using explicit wait function
+06/10/2020 01:12:33 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="9d6afadcad4423361da91cc01c3472f0", element="e5f89299-cdf5-4485-aec7-70516cbf6bbd")>
+06/10/2020 01:13:55 AM - seleniumDriver - INFO: using explicit wait function
+06/10/2020 01:13:55 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="758e738aa1c51f5395d6cec3127290d0", element="593c3151-c41f-4b16-858b-8804e4cdb532")>
+06/10/2020 01:13:55 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+06/10/2020 01:13:57 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+06/10/2020 01:13:57 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="758e738aa1c51f5395d6cec3127290d0", element="593c3151-c41f-4b16-858b-8804e4cdb532")>
+06/10/2020 01:13:57 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+06/10/2020 01:13:57 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+06/10/2020 01:14:03 AM - seleniumDriver - INFO: using explicit wait function
+06/10/2020 01:14:03 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="758e738aa1c51f5395d6cec3127290d0", element="593c3151-c41f-4b16-858b-8804e4cdb532")>
+06/10/2020 01:19:41 AM - seleniumDriver - INFO: using explicit wait function
+06/10/2020 01:19:41 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="ea9b5e7849c190ebf71473952cae267f", element="e3eaa3e6-10b0-40d5-8e8d-e0d55cf170cb")>
+06/10/2020 01:19:41 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+06/10/2020 01:19:43 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+06/10/2020 01:19:43 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="ea9b5e7849c190ebf71473952cae267f", element="e3eaa3e6-10b0-40d5-8e8d-e0d55cf170cb")>
+06/10/2020 01:19:43 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+06/10/2020 01:19:43 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+06/29/2020 06:22:29 PM - seleniumDriver - INFO: using explicit wait function
+06/29/2020 06:22:29 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="6361eaf8d7190515a0d7e69c44f421f1", element="c641febb-9851-4f45-9bcf-9d2e0951489c")>
+06/29/2020 06:22:29 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+06/29/2020 06:22:33 PM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+06/29/2020 06:22:33 PM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="6361eaf8d7190515a0d7e69c44f421f1", element="c641febb-9851-4f45-9bcf-9d2e0951489c")>
+06/29/2020 06:22:33 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+06/29/2020 06:22:33 PM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+06/29/2020 06:23:56 PM - seleniumDriver - INFO: using explicit wait function
+06/29/2020 06:23:56 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="0f51ad235eae917528709147029783bf", element="c08dfc5b-e4df-4aa3-a1f1-9bc147d1d577")>
+06/29/2020 06:23:56 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+06/29/2020 06:23:58 PM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+06/29/2020 06:23:58 PM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="0f51ad235eae917528709147029783bf", element="c08dfc5b-e4df-4aa3-a1f1-9bc147d1d577")>
+06/29/2020 06:23:58 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+06/29/2020 06:23:58 PM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+06/29/2020 06:23:58 PM - seleniumDriver - INFO: using explicit wait function
+06/29/2020 06:23:58 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="0f51ad235eae917528709147029783bf", element="c08dfc5b-e4df-4aa3-a1f1-9bc147d1d577")>
+06/29/2020 06:26:05 PM - seleniumDriver - INFO: using explicit wait function
+06/29/2020 06:26:05 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="3a16c734ed7d1ef8fd8e2ad37902dd8c", element="53445f27-688d-465f-8351-312c80dc3499")>
+06/29/2020 06:26:05 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+06/29/2020 06:26:09 PM - seleniumDriver - INFO: using explicit wait function
+06/29/2020 06:26:09 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="3a16c734ed7d1ef8fd8e2ad37902dd8c", element="53445f27-688d-465f-8351-312c80dc3499")>
+06/29/2020 06:26:22 PM - seleniumDriver - INFO: Element not found None
+06/29/2020 06:28:03 PM - seleniumDriver - INFO: Element not found None
+06/29/2020 06:28:03 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+06/29/2020 06:28:12 PM - seleniumDriver - INFO: using explicit wait function
+06/29/2020 06:28:12 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="8d46b6eb647dc60141b8f9f25ce4a09a", element="1abf724f-d748-4328-93e5-0e67588fdde9")>
+06/29/2020 06:28:14 PM - seleniumDriver - INFO: using explicit wait function
+06/29/2020 06:28:14 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="8d46b6eb647dc60141b8f9f25ce4a09a", element="b4bbf8b6-13bb-45b9-bb78-d734ea78a4af")>
+06/29/2020 06:55:23 PM - seleniumDriver - INFO: using explicit wait function
+06/29/2020 06:55:23 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="60eb5b51df958e0d8533467fcff203c6", element="e4246146-fb66-4a8f-ab5b-10f2590dd7c0")>
+06/29/2020 06:55:23 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+06/29/2020 06:55:25 PM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+06/29/2020 06:55:25 PM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="60eb5b51df958e0d8533467fcff203c6", element="e4246146-fb66-4a8f-ab5b-10f2590dd7c0")>
+06/29/2020 06:55:25 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+06/29/2020 06:55:25 PM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+06/29/2020 06:55:25 PM - seleniumDriver - INFO: using explicit wait function
+06/29/2020 06:55:25 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="60eb5b51df958e0d8533467fcff203c6", element="e4246146-fb66-4a8f-ab5b-10f2590dd7c0")>
+06/29/2020 06:55:30 PM - seleniumDriver - INFO: using explicit wait function
+06/29/2020 06:55:30 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="60eb5b51df958e0d8533467fcff203c6", element="4b93f9dc-774b-4055-8fcf-8d7a2ad65045")>
+07/31/2020 01:34:09 AM - seleniumDriver - INFO: Element not found None
+07/31/2020 01:34:20 AM - seleniumDriver - INFO: using explicit wait function
+07/31/2020 01:34:20 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="ef34ace453a1f57a68983fe4bcd5c298", element="29094d83-b9ac-4b4d-8c2c-95970d2e974b")>
+07/31/2020 01:34:20 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+07/31/2020 01:34:22 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+07/31/2020 01:34:22 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="ef34ace453a1f57a68983fe4bcd5c298", element="29094d83-b9ac-4b4d-8c2c-95970d2e974b")>
+07/31/2020 01:34:22 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+07/31/2020 01:34:22 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+07/31/2020 01:40:32 AM - seleniumDriver - INFO: Element not found None
+07/31/2020 01:40:42 AM - seleniumDriver - INFO: using explicit wait function
+07/31/2020 01:40:42 AM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="d840728a05f127a664236baa0cb21f56", element="4afa0c4b-758e-4762-a083-a000ca54aae1")>
+07/31/2020 01:40:42 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+07/31/2020 01:40:44 AM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+07/31/2020 01:40:44 AM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="d840728a05f127a664236baa0cb21f56", element="4afa0c4b-758e-4762-a083-a000ca54aae1")>
+07/31/2020 01:40:44 AM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+07/31/2020 01:40:44 AM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+10/08/2020 04:44:11 PM - seleniumDriver - INFO: Element not found None
+10/08/2020 04:44:28 PM - seleniumDriver - INFO: Element not found None
+10/08/2020 04:44:28 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+10/08/2020 04:45:25 PM - seleniumDriver - INFO: Element not found None
+10/08/2020 04:45:37 PM - seleniumDriver - INFO: using explicit wait function
+10/08/2020 04:45:37 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="25d9af958529dfcb1ce8fb4dc2a0af75", element="863d6103-ae76-4bfc-bf05-50d2b2dd7e9e")>
+10/08/2020 04:45:37 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+10/08/2020 04:45:39 PM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+10/08/2020 04:45:39 PM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="25d9af958529dfcb1ce8fb4dc2a0af75", element="863d6103-ae76-4bfc-bf05-50d2b2dd7e9e")>
+10/08/2020 04:45:39 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+10/08/2020 04:45:39 PM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+10/08/2020 04:50:14 PM - seleniumDriver - INFO: Element not found None
+10/08/2020 04:50:27 PM - seleniumDriver - INFO: using explicit wait function
+10/08/2020 04:50:27 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="dfc3651ef64dc5d75ec01c0fa7fe0c26", element="74c495e6-061d-4b8f-9344-53eeb97a8c6f")>
+10/08/2020 04:50:27 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+10/08/2020 04:50:30 PM - seleniumDriver - INFO: Element Found with Locator type: xpath and locator: //a[text()='Trial Subject ']
+10/08/2020 04:50:30 PM - seleniumDriver - INFO: Element Found <selenium.webdriver.remote.webelement.WebElement (session="dfc3651ef64dc5d75ec01c0fa7fe0c26", element="74c495e6-061d-4b8f-9344-53eeb97a8c6f")>
+10/08/2020 04:50:30 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 2
+10/08/2020 04:50:30 PM - seleniumDriver - INFO: test_login ### TEST SUCCESSFUL
+10/08/2020 05:14:14 PM - seleniumDriver - INFO: Element not found None
+10/08/2020 05:14:27 PM - seleniumDriver - INFO: using explicit wait function
+10/08/2020 05:14:27 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="58062ed81d2e800ff76c684519096661", element="9180f8cc-abfa-4e2a-92ed-0733b5809943")>
+10/08/2020 05:14:27 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+10/13/2020 12:59:08 PM - seleniumDriver - INFO: Element not found None
+10/13/2020 12:59:22 PM - seleniumDriver - INFO: using explicit wait function
+10/13/2020 12:59:22 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="162ce66cb416f3cd95d81ecf4e7597f0", element="a4d73db5-9a53-4dc9-a5ee-b4b0ab8d53be")>
+10/13/2020 12:59:22 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+10/13/2020 01:19:10 PM - seleniumDriver - INFO: Element not found None
+10/13/2020 01:19:32 PM - seleniumDriver - INFO: using explicit wait function
+10/13/2020 01:19:32 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="566dab1a3f4c4b3e265a69ae9b7c16d7", element="342fa802-ba2a-446d-8fdc-6a0c79d51fe8")>
+10/13/2020 01:19:32 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+10/13/2020 02:17:32 PM - seleniumDriver - INFO: Element not found None
+10/13/2020 02:17:52 PM - seleniumDriver - INFO: using explicit wait function
+10/13/2020 02:17:52 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="ab374525e3482d73bce08717ae3b90e0", element="ae7e3d53-7949-4b30-8291-788f84116ad0")>
+10/13/2020 02:17:52 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+10/13/2020 02:19:14 PM - seleniumDriver - INFO: Element not found None
+10/13/2020 02:19:33 PM - seleniumDriver - INFO: using explicit wait function
+10/13/2020 02:19:33 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="763c676aa5788c36b032185c1daf6729", element="7cf2fd29-d979-4947-b8ac-4a4024102f11")>
+10/13/2020 02:19:33 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+10/13/2020 02:21:17 PM - seleniumDriver - INFO: using explicit wait function
+10/13/2020 02:21:17 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="67e6b4974bf37c996253a94b0056345c", element="e6db7a41-3074-4ca0-af62-be46a1919f1e")>
+10/13/2020 02:21:17 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+10/13/2020 02:24:36 PM - seleniumDriver - INFO: Element not found None
+10/13/2020 02:24:56 PM - seleniumDriver - INFO: using explicit wait function
+10/13/2020 02:24:56 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="5e9fbf4d57f156e114d4c53db559cc19", element="a703f9f1-31b1-43b7-9513-570f2c9a6ed5")>
+10/13/2020 02:24:56 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+10/13/2020 02:26:42 PM - seleniumDriver - INFO: Element not found None
+10/13/2020 02:27:03 PM - seleniumDriver - INFO: using explicit wait function
+10/13/2020 02:27:03 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="9a788130bd6e54f073bbaee8c0d84eb8", element="b57c024e-cec1-4384-aefa-8f628de1adb2")>
+10/13/2020 02:27:03 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+10/13/2020 02:28:56 PM - seleniumDriver - INFO: Element not found None
+10/13/2020 02:29:16 PM - seleniumDriver - INFO: using explicit wait function
+10/13/2020 02:29:16 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="8159818893ea29a38934d38725ba988d", element="26f9694d-6b0e-490e-a5f9-765ebdae19aa")>
+10/13/2020 02:29:16 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+10/13/2020 02:30:28 PM - seleniumDriver - INFO: Element not found None
+10/13/2020 02:30:39 PM - seleniumDriver - INFO: using explicit wait function
+10/13/2020 02:30:39 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="63e9c7c0d6c49a3c7f3b70fed9a97b5f", element="0f9acedf-effc-4be2-88f5-da19397a1e91")>
+10/13/2020 02:30:39 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+10/13/2020 02:32:10 PM - seleniumDriver - INFO: Element not found None
+10/13/2020 02:32:23 PM - seleniumDriver - INFO: using explicit wait function
+10/13/2020 02:32:23 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="e1645f04c21f9c80b0ba1dbc436afeee", element="0531aa90-8aab-409b-9739-7dcfafe9deae")>
+10/13/2020 02:32:23 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+10/13/2020 02:34:18 PM - seleniumDriver - INFO: Element not found None
+10/13/2020 02:34:29 PM - seleniumDriver - INFO: using explicit wait function
+10/13/2020 02:34:29 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="825268dec568f07e31019e629d637b12", element="44cdc6ab-f21b-4402-af5c-4c0b05120b7c")>
+10/13/2020 02:34:29 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+10/14/2020 12:43:07 PM - seleniumDriver - INFO: Element not found None
+10/14/2020 12:43:23 PM - seleniumDriver - INFO: using explicit wait function
+10/14/2020 12:43:23 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="83a91f6cf7831c213d11dfb5e730636b", element="eff0cf9e-4e98-400b-a247-12f736983651")>
+10/14/2020 12:43:23 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+10/14/2020 12:46:11 PM - seleniumDriver - INFO: Element not found None
+10/14/2020 12:46:26 PM - seleniumDriver - INFO: using explicit wait function
+10/14/2020 12:46:26 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="93e39f196d2672ae9d8511a0fe2031b7", element="1b0ef95e-3889-4ae9-b017-db0f437aeee7")>
+10/14/2020 12:46:26 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+10/14/2020 01:00:29 PM - seleniumDriver - INFO: Element not found None
+10/14/2020 01:00:50 PM - seleniumDriver - INFO: using explicit wait function
+10/14/2020 01:00:50 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="3493e3184ec3dd874fa8360968b10527", element="89c2776b-8dcb-4c1a-9294-4e4414291b77")>
+10/14/2020 01:00:50 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+10/14/2020 01:04:38 PM - seleniumDriver - INFO: Element not found None
+10/14/2020 01:04:53 PM - seleniumDriver - INFO: using explicit wait function
+10/14/2020 01:04:53 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="18297bf75786e31dbe7b8dac2945106c", element="3198f277-70d3-4266-9aee-6cb545075d18")>
+10/14/2020 01:04:53 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+10/14/2020 01:08:52 PM - seleniumDriver - INFO: Element not found None
+10/14/2020 01:09:05 PM - seleniumDriver - INFO: using explicit wait function
+10/14/2020 01:09:05 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="5695373496d5f70b768d83f4f395cf8c", element="0d8ba24c-f860-4b27-bb31-a5bacc69f348")>
+10/14/2020 01:09:05 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+10/14/2020 01:55:09 PM - seleniumDriver - INFO: Element not found None
+10/14/2020 01:55:52 PM - seleniumDriver - INFO: Element not found None
+10/14/2020 01:58:17 PM - seleniumDriver - INFO: Element not found None
+10/14/2020 02:02:05 PM - seleniumDriver - INFO: Element not found None
+10/14/2020 02:10:17 PM - seleniumDriver - INFO: Element not found None
+10/14/2020 02:11:12 PM - seleniumDriver - INFO: Element not found None
+10/14/2020 02:11:56 PM - seleniumDriver - INFO: Element not found None
+10/14/2020 03:25:55 PM - seleniumDriver - INFO: Element not found None
+10/15/2020 05:28:34 PM - seleniumDriver - INFO: using explicit wait function
+10/15/2020 05:28:34 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="f26ba71741dbe994420a8d44106ec662", element="129b6d98-bcd8-4e6a-8814-6337fcd6bc70")>
+10/15/2020 05:28:34 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+10/15/2020 06:06:23 PM - seleniumDriver - INFO: using explicit wait function
+10/15/2020 06:06:23 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="30a0467621c72541d90dff2463421ace", element="373dc1b0-c6d1-4c46-bf3e-3e3d6bd83586")>
+10/15/2020 06:06:23 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+10/15/2020 06:07:52 PM - seleniumDriver - INFO: using explicit wait function
+10/15/2020 06:07:52 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="363756bf9a1ed26f2b62e673e4a98621", element="8956700f-49ff-4ff6-a23b-ca6ee85885be")>
+10/15/2020 06:07:52 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+10/15/2020 06:09:15 PM - seleniumDriver - INFO: using explicit wait function
+10/15/2020 06:09:15 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="ada3c68879176cb932127758d9dd52a8", element="2d3ef82a-f9a8-4dec-a88a-0667d5323225")>
+10/15/2020 06:09:15 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+10/15/2020 06:10:07 PM - seleniumDriver - INFO: using explicit wait function
+10/15/2020 06:10:07 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="8b66c173ba4fa1b5394a97c714b148fd", element="59b2eecd-c369-4019-ba28-e23f80abf1fb")>
+10/15/2020 06:10:07 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+10/15/2020 06:11:08 PM - seleniumDriver - INFO: using explicit wait function
+10/15/2020 06:11:08 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="df84ca1a4429950250aa207631763248", element="ce9d9590-4f57-4966-83fa-4d79c06044ea")>
+10/15/2020 06:11:08 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+10/15/2020 06:46:09 PM - seleniumDriver - INFO: using explicit wait function
+10/15/2020 06:46:09 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="47c1576a2ed8f28d61ec40df9da4df70", element="a7f92863-0eb8-41c6-8552-3175028c13fd")>
+10/15/2020 06:46:09 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+10/15/2020 07:16:42 PM - seleniumDriver - INFO: using explicit wait function
+10/15/2020 07:16:42 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="0f34a579b8970abdebbeed33cbc76367", element="8192d110-0d12-4010-b4ef-187265cc6e0e")>
+10/15/2020 07:16:42 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+10/15/2020 07:24:03 PM - seleniumDriver - INFO: using explicit wait function
+10/15/2020 07:24:03 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="f2b957b1c622ccd1d23116040bcf9b63", element="31ad38bd-267e-4d2d-b7cc-70ea1df02687")>
+10/15/2020 07:24:03 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+10/15/2020 07:26:26 PM - seleniumDriver - INFO: using explicit wait function
+10/15/2020 07:26:26 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="f87dd49621a3982ed3ce84ec784e62dd", element="9ae6dea8-41ad-4eb8-af2a-8edf17489bd4")>
+10/15/2020 07:26:26 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+10/15/2020 07:33:34 PM - seleniumDriver - INFO: using explicit wait function
+10/15/2020 07:33:34 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="608d516a7ed3006129d5a3a70f93d55d", element="215bfc56-fe73-4118-8a9a-062595af19e3")>
+10/15/2020 07:33:41 PM - seleniumDriver - INFO: using explicit wait function
+10/15/2020 07:33:41 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="608d516a7ed3006129d5a3a70f93d55d", element="78e94b3c-1607-4ed4-8570-ebb41c95a568")>
+10/15/2020 07:33:41 PM - seleniumDriver - INFO: ### VERIFICATION SUCCESSFUL :: + test_login result 1
+10/15/2020 07:36:01 PM - seleniumDriver - INFO: using explicit wait function
+10/15/2020 07:36:01 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="8436e3ae597a0241e5c46f0ccb1fd887", element="3b11a587-4276-4aab-afa2-029bdf493da7")>
+10/15/2020 07:41:32 PM - seleniumDriver - INFO: using explicit wait function
+10/15/2020 07:41:32 PM - seleniumDriver - INFO: Clicked on element <selenium.webdriver.remote.webelement.WebElement (session="3cfe46483a625a7da143e144befd1465", element="5b58424e-dd6b-4040-b3b0-7045785f763a")>

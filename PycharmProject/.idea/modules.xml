@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../FirstProject/.idea/FirstProject.iml" filepath="$PROJECT_DIR$/../FirstProject/.idea/FirstProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LetsCodeIt/.idea/LetsCodeIt.iml" filepath="$PROJECT_DIR$/../LetsCodeIt/.idea/LetsCodeIt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PycharmProject.iml" filepath="$PROJECT_DIR$/.idea/PycharmProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../.idea/PycharmProjects.iml" filepath="$PROJECT_DIR$/../.idea/PycharmProjects.iml" />
+    </modules>
+  </component>
+</project>

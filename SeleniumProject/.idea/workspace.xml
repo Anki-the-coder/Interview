@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8e69fe95-572b-4e4d-9ce4-ef0f9ef94d37" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SeleniumProject" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XvQc5QmYH4XDRnEouiXODrxQ7r" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../UnitTest" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.MyPractice1">
+    <configuration name="LoggerDemoconf" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Logging" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Logging" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Logging/LoggerDemoconf.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MyPractice1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="UnitTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python\python\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basicWeb" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basicWeb/MyPractice1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Run (1)" type="PythonConfigurationType" factoryName="Python">
+      <module name="SeleniumProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basicWeb" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basicWeb/firefox_mydrivers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="myPractice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SWAdvance" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basicWeb" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basicWeb/myPractice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for assertsDemo.AssertDemo" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="UnitTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../UnitTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;assertsDemo.AssertDemo&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for assertsDemo.AssertDemo.test_assertTrueFalse" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="UnitTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../UnitTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;assertsDemo.AssertDemo.test_assertTrueFalse&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Run (1)" />
+      <item itemvalue="Python.LoggerDemoconf" />
+      <item itemvalue="Python.MyPractice1" />
+      <item itemvalue="Python.myPractice" />
+      <item itemvalue="Python tests.Unittests for assertsDemo.AssertDemo" />
+      <item itemvalue="Python tests.Unittests for assertsDemo.AssertDemo.test_assertTrueFalse" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.MyPractice1" />
+        <item itemvalue="Python.myPractice" />
+        <item itemvalue="Python tests.Unittests for assertsDemo.AssertDemo" />
+        <item itemvalue="Python tests.Unittests for assertsDemo.AssertDemo.test_assertTrueFalse" />
+        <item itemvalue="Python.LoggerDemoconf" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e69fe95-572b-4e4d-9ce4-ef0f9ef94d37" name="Default Changelist" comment="" />
+      <created>1581924164763</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581924164763</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="452" y="0" key="#MyPractice1" timestamp="1586203582946">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="452" y="0" key="#MyPractice1/0.0.1536.824@0.0.1536.824" timestamp="1586203582946" />
+    <state x="239" y="186" width="1070" height="655" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581964958728">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="239" y="186" width="1070" height="655" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1581964958728" />
+    <state x="436" y="100" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583781651746">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="436" y="100" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1583781651746" />
+    <state x="452" y="0" key="#handy-wrappers_1" timestamp="1582284126951">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="452" y="0" key="#handy-wrappers_1/0.0.1536.824@0.0.1536.824" timestamp="1582284126951" />
+    <state x="452" y="0" key="#myPractice" timestamp="1582202111563">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="452" y="0" key="#myPractice/0.0.1536.824@0.0.1536.824" timestamp="1582202111563" />
+    <state x="499" y="110" key="FileChooserDialogImpl" timestamp="1586203394067">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="110" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586203394067" />
+    <state width="1509" height="250" key="GridCell.Tab.0.bottom" timestamp="1586203780864">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1509" height="205" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.47.1280.984/3200.0.1920.1040@0.0.1536.824" timestamp="1583738744766" />
+    <state width="1509" height="250" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586203780864" />
+    <state width="1509" height="250" key="GridCell.Tab.0.center" timestamp="1586203780864">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1509" height="205" key="GridCell.Tab.0.center/0.0.1536.824/1920.47.1280.984/3200.0.1920.1040@0.0.1536.824" timestamp="1583738744766" />
+    <state width="1509" height="250" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586203780864" />
+    <state width="1509" height="250" key="GridCell.Tab.0.left" timestamp="1586203780864">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1509" height="205" key="GridCell.Tab.0.left/0.0.1536.824/1920.47.1280.984/3200.0.1920.1040@0.0.1536.824" timestamp="1583738744766" />
+    <state width="1509" height="250" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586203780864" />
+    <state width="1509" height="250" key="GridCell.Tab.0.right" timestamp="1586203780864">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1509" height="205" key="GridCell.Tab.0.right/0.0.1536.824/1920.47.1280.984/3200.0.1920.1040@0.0.1536.824" timestamp="1583738744766" />
+    <state width="1509" height="250" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586203780864" />
+    <state width="1509" height="235" key="GridCell.Tab.1.bottom" timestamp="1582558676052">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1509" height="235" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582558676052" />
+    <state width="1509" height="235" key="GridCell.Tab.1.center" timestamp="1582558676052">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1509" height="235" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1582558676052" />
+    <state width="1509" height="235" key="GridCell.Tab.1.left" timestamp="1582558676048">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1509" height="235" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1582558676048" />
+    <state width="1509" height="235" key="GridCell.Tab.1.right" timestamp="1582558676052">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1509" height="235" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1582558676052" />
+    <state x="161" y="0" key="SettingsEditor" timestamp="1586203542508">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="161" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586203542508" />
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.RecentChangeDialog" timestamp="1585629024140">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.RecentChangeDialog/0.0.1536.824@0.0.1536.824" timestamp="1585629024140" />
+    <state x="401" y="194" key="com.intellij.ide.util.TipDialog" timestamp="1586203036533">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="401" y="194" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.47.1280.984/3200.0.1920.1040@0.0.1536.824" timestamp="1584353484388" />
+    <state x="401" y="194" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586203036533" />
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1582732361278">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1582732361278" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../NinjaProject/DropdownSelect.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/basicWeb/myPractice.py</url>
+          <line>182</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
